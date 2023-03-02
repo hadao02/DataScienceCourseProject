@@ -1,0 +1,1325 @@
+,candidate_name,party,vote_count,pct,state,office,district
+0,Katie Britt,Republican,942154,0.666,Alabama,senate,
+1,Will Boyd,Democrat,436746,0.309,Alabama,senate,
+2,John Sophocleus,Libertarian,32879,0.023,Alabama,senate,
+3,Lisa Murkowski*,Republican,136330,0.537,Alaska,senate,
+4,Kelly Tshibaka,Republican,117534,0.463,Alaska,senate,
+5,Patricia Chesbro,Democrat,0,0,Alaska,senate,
+6,Buzz Kelley,Republican,0,0,Alaska,senate,
+7,Mark Kelly*,Democrat,1322027,0.514,Arizona,senate,
+8,Blake Masters,Republican,1196308,0.465,Arizona,senate,
+9,Marc Victor,Libertarian,53762,0.021,Arizona,senate,
+10,John Boozman*,Republican,592437.0,0.657,Arkansas,senate,
+11,Natalie James,Democrat,280187.0,0.311,Arkansas,senate,
+12,Kenneth Cates,Libertarian,28682.0,0.032,Arkansas,senate,
+13,Alex Padilla*,Democrat,6559303,0.609,California,senate,
+14,Mark Meuser,Republican,4212446,0.391,California,senate,
+15,Michael Bennet*,Democrat,1397170,0.559,Colorado,senate,
+16,Joe O'Dea,Republican,1031693,0.413,Colorado,senate,
+17,Brian Peotter,Libertarian,43534,0.017,Colorado,senate,
+18,T.J. Cole,Unity,16379,0.007,Colorado,senate,
+19,Frank Atwood,Approval Voting,11354,0.005,Colorado,senate,
+20,Richard Blumenthal*,Democrat,723864,0.575,Connecticut,senate,
+21,Leora Levy,Republican,535943,0.425,Connecticut,senate,
+22,Marco Rubio*,Republican,4474847,0.577,Florida,senate,
+23,Val Demings,Democrat,3201522,0.413,Florida,senate,
+24,Dennis Misigoy,Libertarian,32177,0.004,Florida,senate,
+25,Steven Grant,No Party Affiliation,31816,0.004,Florida,senate,
+26,Tuan Nguyen,No Party Affiliation,17385,0.002,Florida,senate,
+27,Raphael Warnock*,Democrat,1946117,0.494,Georgia,senate,
+28,Herschel Walker,Republican,1908442,0.485,Georgia,senate,
+29,Chase Oliver,Libertarian,81365,0.021,Georgia,senate,
+30,Brian Schatz*,Democrat,290894,0.712,Hawaii,senate,
+31,Bob McDermott,Republican,106358,0.26,Hawaii,senate,
+32,Feena Bonoan,Libertarian,4915,0.012,Hawaii,senate,
+33,Emma Pohlman,Green,4142,0.01,Hawaii,senate,
+34,Dan Decker,Aloha Aina,2208,0.005,Hawaii,senate,
+35,Mike Crapo*,Republican,358539,0.607,Idaho,senate,
+36,David Roth,Democrat,169808,0.287,Idaho,senate,
+37,Scott Cleveland,Independent,49917,0.084,Idaho,senate,
+38,Ray Writz,Constitution,8500,0.014,Idaho,senate,
+39,Idaho Sierra Law,Libertarian,4126,0.007,Idaho,senate,
+40,Tammy Duckworth*,Democrat,2272918,0.564,Illinois,senate,
+41,Kathy Salvi,Republican,1688353,0.419,Illinois,senate,
+42,Bill Redpath,Libertarian,67372,0.017,Illinois,senate,
+43,Todd Young*,Republican,1090390,0.586,Indiana,senate,
+44,Thomas McDermott,Democrat,704480,0.379,Indiana,senate,
+45,James Sceniak,Libertarian,63823,0.034,Indiana,senate,
+46,Chuck Grassley*,Republican,681507,0.56,Iowa,senate,
+47,Michael Franken,Democrat,533717,0.439,Iowa,senate,
+48,Jerry Moran*,Republican,595339,0.601,Kansas,senate,
+49,Mark Holland,Democrat,365820,0.369,Kansas,senate,
+50,David Graham,Libertarian,29168,0.029,Kansas,senate,
+51,Rand Paul*,Republican,913326,0.618,Kentucky,senate,
+52,Charles Booker,Democrat,564311,0.382,Kentucky,senate,
+53,John Kennedy*,Republican,851568,0.616,Louisiana,senate,
+54,Gary Chambers,Democrat,246933,0.179,Louisiana,senate,
+55,Luke Mixon,Democrat,182887,0.132,Louisiana,senate,
+56,Syrita Steib,Democrat,31568,0.023,Louisiana,senate,
+57,Devin Graham,Republican,25275,0.018,Louisiana,senate,
+58,Vinny Mendoza,Democrat,11910,0.009,Louisiana,senate,
+59,Beryl Billiot,No Party Affiliation,9378,0.007,Louisiana,senate,
+60,Salvador Rodriguez,Democrat,7767,0.006,Louisiana,senate,
+61,Bradley McMorris,Independent,5388,0.004,Louisiana,senate,
+62,Aaron Sigler,Libertarian,4865,0.004,Louisiana,senate,
+63,Xan John,Other,2753,0.002,Louisiana,senate,
+64,Thomas Olson,No Party Affiliation,1676,0.001,Louisiana,senate,
+65,Thomas Wenn,Other,1322,<0.1%,Louisiana,senate,
+66,Chris Van Hollen*,Democrat,1316897,0.658,Maryland,senate,
+67,Chris Chaffee,Republican,682293,0.341,Maryland,senate,
+68,Eric Schmitt,Republican,1143706,0.554,Missouri,senate,
+69,Trudy Busch Valentine,Democrat,868916,0.421,Missouri,senate,
+70,Jonathan Dine,Libertarian,34707,0.017,Missouri,senate,
+71,Paul Venable,Constitution,14550,0.007,Missouri,senate,
+72,Catherine Cortez Masto*,Democrat,498316,0.488,Nevada,senate,
+73,Adam Laxalt,Republican,490388,0.48,Nevada,senate,
+74,None of these candidates,None Of The Above,12441,0.012,Nevada,senate,
+75,Barry Lindemann,No Party Designation,8075,0.008,Nevada,senate,
+76,Neil Scott,Libertarian,6422,0.006,Nevada,senate,
+77,Barry Rubinson,Independent American,5208,0.005,Nevada,senate,
+78,Maggie Hassan*,Democrat,332193,0.535,New Hampshire,senate,
+79,Donald Bolduc,Republican,275928,0.444,New Hampshire,senate,
+80,Jeremy Kauffman,Libertarian,12390,0.02,New Hampshire,senate,
+81,Charles Schumer*,Democrat,3201923,0.565,New York,senate,
+82,Joe Pinion,Republican,2439179,0.43,New York,senate,
+83,Diane Sare,Independent,25653,0.005,New York,senate,
+84,Ted Budd,Republican,1905786,0.505,North Carolina,senate,
+85,Cheri Beasley,Democrat,1784049,0.473,North Carolina,senate,
+86,Shannon Bray,Libertarian,51640,0.014,North Carolina,senate,
+87,Matthew Hoh,Green,29934,0.008,North Carolina,senate,
+88,John Hoeven*,Republican,135474,0.564,North Dakota,senate,
+89,Katrina Christiansen,Democrat,59995,0.25,North Dakota,senate,
+90,Rick Becker,Independent,44406,0.185,North Dakota,senate,
+91,JD Vance,Republican,2150550,0.532,Ohio,senate,
+92,Tim Ryan,Democrat,1889170,0.467,Ohio,senate,
+93,James Lankford*,Republican,739960,0.643,Oklahoma,senate,
+94,Madison Horn,Democrat,369370,0.321,Oklahoma,senate,
+95,Michael Delaney,Independent,20907,0.018,Oklahoma,senate,
+96,Kenneth Blevins,Libertarian,20495,0.018,Oklahoma,senate,
+97,Ron Wyden*,Democrat,1076425,0.559,Oregon,senate,
+98,Jo Rae Perkins,Republican,788991,0.41,Oregon,senate,
+99,Chris Henry,Progressive,36881,0.019,Oregon,senate,
+100,Dan Pulju,Pacific Green,23454,0.012,Oregon,senate,
+101,John Fetterman,Democrat,2749907,0.512,Pennsylvania,senate,
+102,Mehmet Oz,Republican,2486842,0.463,Pennsylvania,senate,
+103,Erik Gerhardt,Libertarian,72863,0.014,Pennsylvania,senate,
+104,Richard Weiss,Green,30423,0.006,Pennsylvania,senate,
+105,Daniel Wassmer,KEY,26419,0.005,Pennsylvania,senate,
+106,Tim Scott*,Republican,1066274,0.629,South Carolina,senate,
+107,Krystle Matthews,Democrat,627616,0.37,South Carolina,senate,
+108,John Thune*,Republican,242316,0.696,South Dakota,senate,
+109,Brian Bengs,Democrat,91007,0.261,South Dakota,senate,
+110,Tamara Lesnar,Libertarian,14697,0.042,South Dakota,senate,
+111,Mike Lee*,Republican,571974,0.532,Utah,senate,
+112,Evan McMullin,Unaffiliated,459958,0.427,Utah,senate,
+113,Jimmy Hansen,Libertarian,31784,0.03,Utah,senate,
+114,Tommy Williams,Independent American,12103,0.011,Utah,senate,
+115,Peter Welch,Democrat,196575,0.685,Vermont,senate,
+116,Gerald Malloy,Republican,80468,0.28,Vermont,senate,
+117,Dawn Ellis,Independent,2752,0.01,Vermont,senate,
+118,Natasha Diamondstone-Kohout,GMP,1574,0.005,Vermont,senate,
+119,Kerry Raheb,Independent,1532,0.005,Vermont,senate,
+120,Mark Coester,Independent,1273,0.004,Vermont,senate,
+121,Stephen Duke,Independent,1209,0.004,Vermont,senate,
+122,Cris Ericson,Independent,1105,0.004,Vermont,senate,
+123,Patty Murray*,Democrat,1741827,0.571,Washington,senate,
+124,Tiffany Smiley,Republican,1299322,0.426,Washington,senate,
+125,Ron Johnson*,Republican,1337185,0.504,Wisconsin,senate,
+126,Mandela Barnes,Democrat,1310467,0.494,Wisconsin,senate,
+127,Jerry Carl*,Republican,140592,0.836,Alabama,house,1
+128,Alexander Remrey,Libertarian,26369,0.157,Alabama,house,1
+129,Barry Moore*,Republican,137460,0.691,Alabama,house,2
+130,Phyllis Harvey-Hall,Democrat,58014,0.292,Alabama,house,2
+131,Jonathan Realz,Libertarian,3396,0.017,Alabama,house,2
+132,Mike Rogers*,Republican,135602,0.712,Alabama,house,3
+133,Lin Veasey,Democrat,47859,0.251,Alabama,house,3
+134,Douglas Bell,Independent,3831,0.02,Alabama,house,3
+135,Thomas Casson,Libertarian,3034,0.016,Alabama,house,3
+136,Robert Aderholt*,Republican,164655,0.841,Alabama,house,4
+137,Rick Neighbors,Democrat,26694,0.136,Alabama,house,4
+138,Johnny Cochran,Libertarian,4303,0.022,Alabama,house,4
+139,Dale Strong,Republican,142435,0.671,Alabama,house,5
+140,Kathy Warner-Stanton,Democrat,62740,0.296,Alabama,house,5
+141,P.J. Greer,Libertarian,6773,0.032,Alabama,house,5
+142,Gary Palmer*,Republican,154233,0.837,Alabama,house,6
+143,Andria Chieffo,Libertarian,27833,0.151,Alabama,house,6
+144,Terri Sewell*,Democrat,123233,0.635,Alabama,house,7
+145,Beatrice Nichols,Republican,67416,0.348,Alabama,house,7
+146,Gavin Goodman,Libertarian,3212,0.017,Alabama,house,7
+147,Mary Peltola*,Democrat,137263,0.55,Alaska,house,at large
+148,Sarah Palin,Republican,112471,0.45,Alaska,house,at large
+149,Nick Begich,Republican,0,0,Alaska,house,at large
+150,Chris Bye,Libertarian,0,0,Alaska,house,at large
+151,David Schweikert*,Republican,182336,0.504,Arizona,house,1
+152,Jevin Hodge,Democrat,179141,0.496,Arizona,house,1
+153,Eli Crane,Republican,174169,0.539,Arizona,house,2
+154,Tom O'Halleran*,Democrat,149151,0.461,Arizona,house,2
+155,Ruben Gallego*,Democrat,108599,0.77,Arizona,house,3
+156,Jeff Zink,Republican,32475,0.23,Arizona,house,3
+157,Greg Stanton*,Democrat,148941,0.561,Arizona,house,4
+158,Kelly Cooper,Republican,116521,0.439,Arizona,house,4
+159,Andy Biggs*,Republican,182464,0.567,Arizona,house,5
+160,Javier Ramos,Democrat,120243,0.374,Arizona,house,5
+161,Clint Smith,Independent,18851,0.059,Arizona,house,5
+162,Juan Ciscomani,Republican,177201,0.507,Arizona,house,6
+163,Kirsten Engel,Democrat,171969,0.492,Arizona,house,6
+164,Raul Grijalva*,Democrat,126418,0.645,Arizona,house,7
+165,Luis Pozzolo,Republican,69444,0.355,Arizona,house,7
+166,Debbie Lesko*,Republican,197555,0.965,Arizona,house,8
+167,Paul Gosar*,Republican,192796,0.978,Arizona,house,9
+168,Rick Crawford*,Republican,153774,0.738,Arkansas,house,1
+169,Monte Hodges,Democrat,54598,0.262,Arkansas,house,1
+170,French Hill*,Republican,147975,0.6,Arkansas,house,2
+171,Quintessa Hathaway,Democrat,86887,0.353,Arkansas,house,2
+172,Michael White,Libertarian,11584,0.047,Arkansas,house,2
+173,Steve Womack*,Republican,142401,0.637,Arkansas,house,3
+174,Lauren Mallett-Hays,Democrat,73541,0.329,Arkansas,house,3
+175,Michael Kalagias,Libertarian,7646,0.034,Arkansas,house,3
+176,Bruce Westerman*,Republican,153850,0.71,Arkansas,house,4
+177,John White,Democrat,56745,0.262,Arkansas,house,4
+178,Gregory Maxwell,Libertarian,6101,0.028,Arkansas,house,4
+179,Doug LaMalfa*,Republican,152839,0.621,California,house,1
+180,Max Steiner,Democrat,93386,0.379,California,house,1
+181,Jared Huffman*,Democrat,229720,0.744,California,house,2
+182,Douglas Brower,Republican,79029,0.256,California,house,2
+183,Kevin Kiley,Republican,181438,0.536,California,house,3
+184,Kermit Jones,Democrat,156761,0.464,California,house,3
+185,Mike Thompson*,Democrat,176900,0.678,California,house,4
+186,Matt Brock,Republican,84007,0.322,California,house,4
+187,Tom McClintock*,Republican,173524,0.613,California,house,5
+188,Mike Barkley,Democrat,109506,0.387,California,house,5
+189,Ami Bera*,Democrat,121058,0.559,California,house,6
+190,Tamika Hamilton,Republican,95325,0.441,California,house,6
+191,Doris Matsui*,Democrat,150618,0.683,California,house,7
+192,Max Semenenko,Republican,70033,0.317,California,house,7
+193,John Garamendi*,Democrat,145501,0.757,California,house,8
+194,Rudy Recile,Republican,46634,0.243,California,house,8
+195,Josh Harder*,Democrat,95598,0.548,California,house,9
+196,Tom Patti,Republican,78802,0.452,California,house,9
+197,Mark DeSaulnier*,Democrat,198415,0.789,California,house,10
+198,Michael Kerr,Green,52965,0.211,California,house,10
+199,Nancy Pelosi*,Democrat,220848,0.84,California,house,11
+200,John Dennis,Republican,42217,0.16,California,house,11
+201,Barbara Lee*,Democrat,217110,0.905,California,house,12
+202,Stephen Slauson,Republican,22859,0.095,California,house,12
+203,John Duarte,Republican,67060,0.502,California,house,13
+204,Adam Gray,Democrat,66496,0.498,California,house,13
+205,Eric Swalwell*,Democrat,137612,0.693,California,house,14
+206,Alison Hayden,Republican,60852,0.307,California,house,14
+207,Kevin Mullin,Democrat,108077,0.555,California,house,15
+208,David Canepa,Democrat,86797,0.445,California,house,15
+209,Anna Eshoo*,Democrat,139235,0.578,California,house,16
+210,Rishi Kumar,Democrat,101772,0.422,California,house,16
+211,Ro Khanna*,Democrat,127853,0.709,California,house,17
+212,Ritesh Tandon,Republican,52400,0.291,California,house,17
+213,Zoe Lofgren*,Democrat,99776,0.659,California,house,18
+214,Peter Hernandez,Republican,51737,0.341,California,house,18
+215,Jimmy Panetta*,Democrat,194494,0.687,California,house,19
+216,Jeff Gorman,Republican,88816,0.313,California,house,19
+217,Kevin McCarthy*,Republican,153844,0.672,California,house,20
+218,Marisa Wood,Democrat,74932,0.328,California,house,20
+219,Jim Costa*,Democrat,68074,0.542,California,house,21
+220,Michael Maher,Republican,57573,0.458,California,house,21
+221,David Valadao*,Republican,52993,0.515,California,house,22
+222,Rudy Salas,Democrat,49859,0.485,California,house,22
+223,Jay Obernolte*,Republican,103197,0.61,California,house,23
+224,Derek Marshall,Democrat,65908,0.39,California,house,23
+225,Salud Carbajal*,Democrat,159019,0.606,California,house,24
+226,Brad Allen,Republican,103533,0.394,California,house,24
+227,Raul Ruiz*,Democrat,87641,0.574,California,house,25
+228,Brian Hawkins,Republican,65101,0.426,California,house,25
+229,Julia Brownley*,Democrat,134575,0.545,California,house,26
+230,Matt Jacobs,Republican,112214,0.455,California,house,26
+231,Mike Garcia*,Republican,104624,0.532,California,house,27
+232,Christy Smith,Democrat,91892,0.468,California,house,27
+233,Judy Chu*,Democrat,150062,0.662,California,house,28
+234,Wes Hallman,Republican,76495,0.338,California,house,28
+235,Tony Cardenas*,Democrat,69915,0.585,California,house,29
+236,Angelica Duenas,Democrat,49520,0.415,California,house,29
+237,Adam Schiff*,Democrat,150100,0.711,California,house,30
+238,Maebe A. Girl Pudlo,Democrat,60968,0.289,California,house,30
+239,Grace Napolitano*,Democrat,91472,0.595,California,house,31
+240,Daniel Martinez,Republican,62153,0.405,California,house,31
+241,Brad Sherman*,Democrat,167411,0.692,California,house,32
+242,Lucie Volotzky,Republican,74618,0.308,California,house,32
+243,Pete Aguilar*,Democrat,76588,0.577,California,house,33
+244,John Porter,Republican,56119,0.423,California,house,33
+245,Jimmy Gomez*,Democrat,62244,0.512,California,house,34
+246,David Kim,Democrat,59223,0.488,California,house,34
+247,Norma Torres*,Democrat,75121,0.574,California,house,35
+248,Mike Cargile,Republican,55832,0.426,California,house,35
+249,Ted Lieu*,Democrat,194299,0.698,California,house,36
+250,Joe Collins,Republican,84264,0.302,California,house,36
+251,Sydney Kamlager,Democrat,84338,0.64,California,house,37
+252,Jan Perry,Democrat,47542,0.36,California,house,37
+253,Linda Sanchez*,Democrat,101260,0.581,California,house,38
+254,Eric Ching,Republican,73051,0.419,California,house,38
+255,Mark Takano*,Democrat,75896,0.577,California,house,39
+256,Aja Smith,Republican,55701,0.423,California,house,39
+257,Young Kim*,Republican,161589,0.568,California,house,40
+258,Asif Mahmood,Democrat,122722,0.432,California,house,40
+259,Ken Calvert*,Republican,123869,0.523,California,house,41
+260,Will Rollins,Democrat,112769,0.477,California,house,41
+261,Robert Garcia,Democrat,99217,0.684,California,house,42
+262,John Briscoe,Republican,45903,0.316,California,house,42
+263,Maxine Waters*,Democrat,95462,0.773,California,house,43
+264,Omar Navarro,Republican,27985,0.227,California,house,43
+265,Nanette Barragan*,Democrat,100160,0.722,California,house,44
+266,Paul Jones,Republican,38554,0.278,California,house,44
+267,Michelle Steel*,Republican,113960,0.524,California,house,45
+268,Jay Chen,Democrat,103466,0.476,California,house,45
+269,Lou Correa*,Democrat,78041,0.618,California,house,46
+270,Christopher Gonzales,Republican,48257,0.382,California,house,46
+271,Katie Porter*,Democrat,137374,0.517,California,house,47
+272,Scott Baugh,Republican,128261,0.483,California,house,47
+273,Darrell Issa*,Republican,155171,0.604,California,house,48
+274,Stephen Houlahan,Democrat,101900,0.396,California,house,48
+275,Mike Levin*,Democrat,153541,0.526,California,house,49
+276,Brian Maryott,Republican,138194,0.474,California,house,49
+277,Scott Peters*,Democrat,168816,0.628,California,house,50
+278,Corey Gustafson,Republican,99819,0.372,California,house,50
+279,Sara Jacobs*,Democrat,144186,0.619,California,house,51
+280,Stan Caplan,Republican,88886,0.381,California,house,51
+281,Juan Vargas*,Democrat,100686,0.667,California,house,52
+282,Tyler Geffeney,Republican,50330,0.333,California,house,52
+283,Diana DeGette*,Democrat,226929,0.803,Colorado,house,1
+284,Jennifer Qualteri,Republican,49530,0.175,Colorado,house,1
+285,John Kittleson,Libertarian,6157,0.022,Colorado,house,1
+286,Joe Neguse*,Democrat,244107,0.7,Colorado,house,2
+287,Marshall Dawson,Republican,97700,0.28,Colorado,house,2
+288,Steve Yurash,Other,2876,0.008,Colorado,house,2
+289,Gary Nation,American Constitution,2188,0.006,Colorado,house,2
+290,Tim Wolf,Unity,1968,0.006,Colorado,house,2
+291,Lauren Boebert*,Republican,163846,0.501,Colorado,house,3
+292,Adam Frisch,Democrat,163298,0.499,Colorado,house,3
+293,Ken Buck*,Republican,216024,0.609,Colorado,house,4
+294,Ike McCorkle,Democrat,129619,0.366,Colorado,house,4
+295,Ryan McGonigal,American Constitution,8870,0.025,Colorado,house,4
+296,Doug Lamborn*,Republican,155528,0.56,Colorado,house,5
+297,David Torres,Democrat,111978,0.403,Colorado,house,5
+298,Brian Flanagan,Libertarian,7079,0.025,Colorado,house,5
+299,Christopher Mitchell,American Constitution,3370,0.012,Colorado,house,5
+300,Jason Crow*,Democrat,170140,0.606,Colorado,house,6
+301,Steven Monahan,Republican,105084,0.374,Colorado,house,6
+302,Eric Mulder,Libertarian,5531,0.02,Colorado,house,6
+303,Brittany Pettersen,Democrat,204984,0.564,Colorado,house,7
+304,Erik Aadland,Republican,150510,0.414,Colorado,house,7
+305,Ross Klopf,Libertarian,6187,0.017,Colorado,house,7
+306,Critter Milton,Unity,1828,0.005,Colorado,house,7
+307,Yadira Caraveo,Democrat,114377,0.484,Colorado,house,8
+308,Barbara Kirkmeyer,Republican,112745,0.477,Colorado,house,8
+309,Richard Ward,Libertarian,9280,0.039,Colorado,house,8
+310,John Larson*,Democrat,149556,0.613,Connecticut,house,1
+311,Larry Lazor,Republican,91506,0.375,Connecticut,house,1
+312,Mary Sanders,Green,2851,0.012,Connecticut,house,1
+313,Joe Courtney*,Democrat,165946,0.582,Connecticut,house,2
+314,Mike France,Republican,114506,0.402,Connecticut,house,2
+315,Kevin Blacker,Green,2439,0.009,Connecticut,house,2
+316,William Hall,Libertarian,2140,0.008,Connecticut,house,2
+317,Rosa DeLauro*,Democrat,137924,0.568,Connecticut,house,3
+318,Lesley Denardis,Republican,98704,0.407,Connecticut,house,3
+319,Amy Chai,Independent Party,4056,0.017,Connecticut,house,3
+320,Justin Paglino,Green,1967,0.008,Connecticut,house,3
+321,Jim Himes*,Democrat,140262,0.594,Connecticut,house,4
+322,Jayme Stevenson,Republican,95822,0.406,Connecticut,house,4
+323,Jahana Hayes*,Democrat,127838,0.504,Connecticut,house,5
+324,George Logan,Republican,125834,0.496,Connecticut,house,5
+325,Lisa Blunt Rochester*,Democrat,178416,0.555,Delaware,house,at large
+326,Lee Murphy,Republican,138201,0.43,Delaware,house,at large
+327,Cody McNutt,Libertarian,3074,0.01,Delaware,house,at large
+328,David Rogers,Non-Partisan,1958,0.006,Delaware,house,at large
+329,Matt Gaetz*,Republican,197349,0.679,Florida,house,1
+330,Rebekah Jones,Democrat,93467,0.321,Florida,house,1
+331,Neal Dunn*,Republican,180236,0.598,Florida,house,2
+332,Al Lawson*,Democrat,121153,0.402,Florida,house,2
+333,Kat Cammack*,Republican,178101,0.625,Florida,house,3
+334,Danielle Hawk,Democrat,103382,0.363,Florida,house,3
+335,Linda Brooks,No Party Affiliation,3410,0.012,Florida,house,3
+336,Aaron Bean,Republican,165696,0.605,Florida,house,4
+337,LaShonda Holloway,Democrat,108402,0.395,Florida,house,4
+338,John Rutherford*,Republican,0,0,Florida,house,5
+339,Michael Waltz*,Republican,226548,0.753,Florida,house,6
+340,Joe Hannoush,Libertarian,74207,0.247,Florida,house,6
+341,Cory Mills,Republican,177966,0.585,Florida,house,7
+342,Karen Green,Democrat,126079,0.415,Florida,house,7
+343,Bill Posey*,Republican,222128,0.649,Florida,house,8
+344,Joanne Terry,Democrat,120080,0.351,Florida,house,8
+345,Darren Soto*,Democrat,108541,0.536,Florida,house,9
+346,Scotty Moore,Republican,93827,0.464,Florida,house,9
+347,Maxwell Frost,Democrat,117955,0.59,Florida,house,10
+348,Calvin Wimbish,Republican,78844,0.394,Florida,house,10
+349,Jason Holic,No Party Affiliation,2001,0.01,Florida,house,10
+350,Usha Jain,No Party Affiliation,1110,0.006,Florida,house,10
+351,Daniel Webster*,Republican,205995,0.631,Florida,house,11
+352,Shante Munns,Democrat,115647,0.354,Florida,house,11
+353,Kevin Porter,No Party Affiliation,4967,0.015,Florida,house,11
+354,Gus Bilirakis*,Republican,226601,0.704,Florida,house,12
+355,Kimberly Walker,Democrat,95390,0.296,Florida,house,12
+356,Anna Paulina Luna,Republican,181487,0.531,Florida,house,13
+357,Eric Lynn,Democrat,153876,0.451,Florida,house,13
+358,Frank Craft,Libertarian,6163,0.018,Florida,house,13
+359,Kathy Castor*,Democrat,149737,0.569,Florida,house,14
+360,James Judge,Republican,113427,0.431,Florida,house,14
+361,Laurel Lee,Republican,145219,0.585,Florida,house,15
+362,Alan Cohn,Democrat,102835,0.415,Florida,house,15
+363,Vern Buchanan*,Republican,189762,0.621,Florida,house,16
+364,Jan Schneider,Democrat,115575,0.378,Florida,house,16
+365,Greg Steube*,Republican,222483,0.638,Florida,house,17
+366,Andrea Kale,Democrat,123798,0.355,Florida,house,17
+367,Theodore Murray,No Party Affiliation,2225,0.006,Florida,house,17
+368,Scott Franklin*,Republican,167429,0.747,Florida,house,18
+369,Keith Hayden,No Party Affiliation,56647,0.253,Florida,house,18
+370,Byron Donalds*,Republican,213035,0.68,Florida,house,19
+371,Cindy Banyai,Democrat,100226,0.32,Florida,house,19
+372,Sheila Cherfilus-McCormick*,Democrat,136215,0.723,Florida,house,20
+373,Drew Montez Clark,Republican,52151,0.277,Florida,house,20
+374,Brian Mast*,Republican,208614,0.635,Florida,house,21
+375,Corinna Balderramos Robinson,Democrat,119891,0.365,Florida,house,21
+376,Lois Frankel*,Democrat,150010,0.551,Florida,house,22
+377,Dan Franzese,Republican,122194,0.449,Florida,house,22
+378,Jared Moskowitz,Democrat,143951,0.516,Florida,house,23
+379,Joe Budd,Republican,130681,0.468,Florida,house,23
+380,Christine Scott,No Party Affiliation,3079,0.011,Florida,house,23
+381,Mark Napier,No Party Affiliation,1338,0.005,Florida,house,23
+382,Frederica Wilson*,Democrat,133442,0.718,Florida,house,24
+383,Jesus Navarro,Republican,52449,0.282,Florida,house,24
+384,Debbie Wasserman Schultz*,Democrat,129113,0.551,Florida,house,25
+385,Carla Spalding,Republican,105239,0.449,Florida,house,25
+386,Mario Diaz-Balart*,Republican,143240,0.709,Florida,house,26
+387,Christine Olivo,Democrat,58868,0.291,Florida,house,26
+388,Maria Elvira Salazar*,Republican,136038,0.573,Florida,house,27
+389,Annette Taddeo,Democrat,101404,0.427,Florida,house,27
+390,Carlos Gimenez*,Republican,134457,0.637,Florida,house,28
+391,Robert Asencio,Democrat,76665,0.363,Florida,house,28
+392,Buddy Carter*,Republican,156128,0.591,Georgia,house,1
+393,Wade Herring,Democrat,107837,0.409,Georgia,house,1
+394,Sanford Bishop*,Democrat,132675,0.55,Georgia,house,2
+395,Chris West,Republican,108665,0.45,Georgia,house,2
+396,Drew Ferguson*,Republican,213524,0.687,Georgia,house,3
+397,Val Almonord,Democrat,97057,0.313,Georgia,house,3
+398,Hank Johnson*,Democrat,216332,0.785,Georgia,house,4
+399,Jonathan Chavez,Republican,59302,0.215,Georgia,house,4
+400,Nikema Williams*,Democrat,243687,0.825,Georgia,house,5
+401,Christian Zimm,Republican,51769,0.175,Georgia,house,5
+402,Rich McCormick,Republican,206886,0.622,Georgia,house,6
+403,Bob Christian,Democrat,125612,0.378,Georgia,house,6
+404,Lucy McBath*,Democrat,143063,0.61,Georgia,house,7
+405,Mark Gonsalves,Republican,91262,0.389,Georgia,house,7
+406,Austin Scott*,Republican,178700,0.686,Georgia,house,8
+407,Darrius Butler,Democrat,81886,0.314,Georgia,house,8
+408,Andrew Clyde*,Republican,212820,0.724,Georgia,house,9
+409,Mike Ford,Democrat,81318,0.276,Georgia,house,9
+410,Mike Collins,Republican,198523,0.645,Georgia,house,10
+411,Tabitha Johnson-Green,Democrat,109107,0.355,Georgia,house,10
+412,Barry Loudermilk*,Republican,190086,0.626,Georgia,house,11
+413,Antonio Daza,Democrat,113571,0.374,Georgia,house,11
+414,Rick Allen*,Republican,158047,0.596,Georgia,house,12
+415,Elizabeth Johnson,Democrat,107148,0.404,Georgia,house,12
+416,David Scott*,Democrat,216388,0.818,Georgia,house,13
+417,Caesar Gonzales,Republican,48228,0.182,Georgia,house,13
+418,Marjorie Taylor Greene*,Republican,170162,0.659,Georgia,house,14
+419,Marcus Flowers,Democrat,88189,0.341,Georgia,house,14
+420,Ed Case*,Democrat,143546,0.737,Hawaii,house,1
+421,Conrad Kress,Republican,51217,0.263,Hawaii,house,1
+422,Jill Tokuda,Democrat,128407,0.622,Hawaii,house,2
+423,Joe Akana,Republican,72874,0.353,Hawaii,house,2
+424,Michelle Tippens,Libertarian,5130,0.025,Hawaii,house,2
+425,Russ Fulcher*,Republican,222901,0.713,Idaho,house,1
+426,Kaylee Peterson,Democrat,82261,0.263,Idaho,house,1
+427,Darian Drake,Libertarian,7280,0.023,Idaho,house,1
+428,Mike Simpson*,Republican,172450,0.636,Idaho,house,2
+429,Wendy Norman,Democrat,98736,0.364,Idaho,house,2
+430,Jonathan Jackson,Democrat,154636,0.665,Illinois,house,1
+431,Eric Carlson,Republican,77998,0.335,Illinois,house,1
+432,Robin Kelly*,Democrat,138620,0.669,Illinois,house,2
+433,Thomas Lynch,Republican,68433,0.331,Illinois,house,2
+434,Delia Ramirez,Democrat,114562,0.674,Illinois,house,3
+435,Justin Burau,Republican,55375,0.326,Illinois,house,3
+436,"Jesus ""Chuy"" Garcia*",Democrat,88989,0.682,Illinois,house,4
+437,James Falakos,Republican,37092,0.284,Illinois,house,4
+438,Edward Hershey,Working Class Party,4483,0.034,Illinois,house,4
+439,Mike Quigley*,Democrat,180333,0.687,Illinois,house,5
+440,Tommy Hanson,Republican,77947,0.297,Illinois,house,5
+441,Jerico Cruz,Independent,4250,0.016,Illinois,house,5
+442,Sean Casten*,Democrat,149296,0.543,Illinois,house,6
+443,Keith Pekau,Republican,125897,0.457,Illinois,house,6
+444,Danny Davis*,Democrat,159234,1,Illinois,house,7
+445,Raja Krishnamoorthi*,Democrat,117620,0.569,Illinois,house,8
+446,Chris Dargis,Republican,89177,0.431,Illinois,house,8
+447,Janice Schakowsky*,Democrat,174716,0.713,Illinois,house,9
+448,Maxwell Rice,Republican,70360,0.287,Illinois,house,9
+449,Brad Schneider*,Democrat,152546,0.63,Illinois,house,10
+450,Joseph Severino,Republican,89582,0.37,Illinois,house,10
+451,Bill Foster*,Democrat,149160,0.565,Illinois,house,11
+452,Catalina Lauf,Republican,115033,0.435,Illinois,house,11
+453,Mike Bost*,Republican,173049,0.766,Illinois,house,12
+454,Chip Markel,Democrat,52935,0.234,Illinois,house,12
+455,Nikki Budzinski,Democrat,129243,0.547,Illinois,house,13
+456,Regan Deering,Republican,106853,0.452,Illinois,house,13
+457,Lauren Underwood*,Democrat,130046,0.544,Illinois,house,14
+458,Scott Gryder,Republican,108891,0.456,Illinois,house,14
+459,Mary Miller*,Republican,198951,0.71,Illinois,house,15
+460,Paul Lange,Democrat,81288,0.29,Illinois,house,15
+461,Darin LaHood*,Republican,194225,0.665,Illinois,house,16
+462,Elizabeth Haderlein,Democrat,97785,0.335,Illinois,house,16
+463,Eric Sorensen,Democrat,119450,0.518,Illinois,house,17
+464,Esther Joy King,Republican,111217,0.482,Illinois,house,17
+465,Frank Mrvan*,Democrat,112656,0.528,Indiana,house,1
+466,Jennifer-Ruth Green,Republican,100542,0.472,Indiana,house,1
+467,Rudy Yakym,Republican,125537,0.646,Indiana,house,2
+468,Paul Steury,Democrat,62955,0.324,Indiana,house,2
+469,William Henry,Libertarian,5870,0.03,Indiana,house,2
+470,Jim Banks*,Republican,131579,0.653,Indiana,house,3
+471,Gary Snyder,Democrat,60577,0.301,Indiana,house,3
+472,Nathan Gotsch,Independent,9386,0.047,Indiana,house,3
+473,Jim Baird*,Republican,134864,0.682,Indiana,house,4
+474,Roger Day,Democrat,62834,0.318,Indiana,house,4
+475,Victoria Spartz*,Republican,146575,0.611,Indiana,house,5
+476,Jeannine Lake,Democrat,93434,0.389,Indiana,house,5
+477,Greg Pence*,Republican,130686,0.675,Indiana,house,6
+478,Cynthia Wirth,Democrat,62838,0.325,Indiana,house,6
+479,Andre Carson*,Democrat,117309,0.67,Indiana,house,7
+480,Angela Grabovsky,Republican,53631,0.306,Indiana,house,7
+481,Gavin Maple,Libertarian,4240,0.024,Indiana,house,7
+482,Larry Bucshon*,Republican,141995,0.657,Indiana,house,8
+483,Ray McCormick,Democrat,68109,0.315,Indiana,house,8
+484,Andrew Horning,Libertarian,5936,0.027,Indiana,house,8
+485,Erin Houchin,Republican,143166,0.636,Indiana,house,9
+486,Matthew Fyfe,Democrat,75700,0.336,Indiana,house,9
+487,Tonya Millis,Libertarian,6374,0.028,Indiana,house,9
+488,Mariannette Miller-Meeks*,Republican,162952,0.533,Iowa,house,1
+489,Christina Bohannan,Democrat,142254,0.466,Iowa,house,1
+490,Ashley Hinson*,Republican,172181,0.541,Iowa,house,2
+491,Liz Mathis,Democrat,145940,0.458,Iowa,house,2
+492,Zach Nunn,Republican,156263,0.503,Iowa,house,3
+493,Cindy Axne*,Democrat,154117,0.496,Iowa,house,3
+494,Randy Feenstra*,Republican,186467,0.673,Iowa,house,4
+495,Ryan Melton,Democrat,84230,0.304,Iowa,house,4
+496,Bryan Jack Holder,Other,6035,0.022,Iowa,house,4
+497,Tracey Mann*,Republican,159300,0.678,Kansas,house,1
+498,Jimmy Beard,Democrat,75753,0.322,Kansas,house,1
+499,Jake LaTurner*,Republican,132764,0.576,Kansas,house,2
+500,Patrick Schmidt,Democrat,97578,0.424,Kansas,house,2
+501,Sharice Davids*,Democrat,163103,0.549,Kansas,house,3
+502,Amanda Adkins,Republican,127116,0.428,Kansas,house,3
+503,Steven Hohe,Libertarian,6800,0.023,Kansas,house,3
+504,Ron Estes*,Republican,142860,0.635,Kansas,house,4
+505,Bob Hernandez,Democrat,82135,0.365,Kansas,house,4
+506,James Comer*,Republican,184157,0.749,Kentucky,house,1
+507,Jimmy Ausbrooks,Democrat,61701,0.251,Kentucky,house,1
+508,Brett Guthrie*,Republican,170487,0.719,Kentucky,house,2
+509,Hank Linderman,Democrat,66769,0.281,Kentucky,house,2
+510,Morgan McGarvey,Democrat,160920,0.62,Kentucky,house,3
+511,Stuart Ray,Republican,98637,0.38,Kentucky,house,3
+512,Thomas Massie*,Republican,167541,0.65,Kentucky,house,4
+513,Matthew Lehman,Democrat,79977,0.31,Kentucky,house,4
+514,Ethan Osborne,Independent,10111,0.039,Kentucky,house,4
+515,Hal Rogers*,Republican,177712,0.822,Kentucky,house,5
+516,Conor Halbleib,Democrat,38549,0.178,Kentucky,house,5
+517,Andy Barr*,Republican,154762,0.627,Kentucky,house,6
+518,Geoff Young,Democrat,83005,0.336,Kentucky,house,6
+519,Steve Scalise*,Republican,177670,0.728,Louisiana,house,1
+520,Katie Darling,Democrat,61467,0.252,Louisiana,house,1
+521,Howard Kearney,Libertarian,4907,0.02,Louisiana,house,1
+522,Troy Carter*,Democrat,158120,0.771,Louisiana,house,2
+523,Dan Lux,Republican,46927,0.229,Louisiana,house,2
+524,Clay Higgins*,Republican,144423,0.643,Louisiana,house,3
+525,Holden Hoggatt,Republican,24474,0.109,Louisiana,house,3
+526,Lessie LeBlanc,Democrat,23641,0.105,Louisiana,house,3
+527,Tia LeBrun,Democrat,21172,0.094,Louisiana,house,3
+528,Thomas Payne,Republican,4012,0.018,Louisiana,house,3
+529,Gloria Wiggins,Independent,3255,0.014,Louisiana,house,3
+530,Jake Shaheen,Republican,1955,0.009,Louisiana,house,3
+531,Guy McLendon,Libertarian,1620,0.007,Louisiana,house,3
+532,Mike Johnson*,Republican,0,0,Louisiana,house,4
+533,Julia Letlow*,Republican,151080,0.676,Louisiana,house,5
+534,Omar Dantzler,Democrat,35149,0.157,Louisiana,house,5
+535,Walter Earl Huff,Democrat,19383,0.087,Louisiana,house,5
+536,Allen Guillory,Republican,12159,0.054,Louisiana,house,5
+537,Hunter Pullen,Republican,5782,0.026,Louisiana,house,5
+538,Garret Graves*,Republican,189684,0.804,Louisiana,house,6
+539,Rufus Craig,Libertarian,30709,0.13,Louisiana,house,6
+540,Brian Belzer,Republican,15535,0.066,Louisiana,house,6
+541,Chellie Pingree*,Democrat,218802,0.629,Maine,house,1
+542,Ed Thelander,Republican,129172,0.371,Maine,house,1
+543,Jared Golden*,Democrat,165136,0.531,Maine,house,2
+544,Bruce Poliquin,Republican,146142,0.469,Maine,house,2
+545,Tiffany Bond,Independent,0,0,Maine,house,2
+546,Andy Harris*,Republican,159673,0.544,Maryland,house,1
+547,Heather Mizeur,Democrat,126511,0.431,Maryland,house,1
+548,Daniel Thibeault,Libertarian,6924,0.024,Maryland,house,1
+549,Dutch Ruppersberger*,Democrat,158998,0.592,Maryland,house,2
+550,Nicolee Ambrose,Republican,109075,0.406,Maryland,house,2
+551,John Sarbanes*,Democrat,175514,0.602,Maryland,house,3
+552,Yuripzy Morgan,Republican,115801,0.397,Maryland,house,3
+553,Glenn Ivey,Democrat,144168,0.901,Maryland,house,4
+554,Jeff Warner,Republican,15441,0.097,Maryland,house,4
+555,Steny Hoyer*,Democrat,182478,0.659,Maryland,house,5
+556,Chris Palombi,Republican,94000,0.339,Maryland,house,5
+557,David Trone*,Democrat,140295,0.547,Maryland,house,6
+558,Neil Parrott,Republican,115771,0.452,Maryland,house,6
+559,Kweisi Mfume*,Democrat,151640,0.821,Maryland,house,7
+560,Scott Collier,Republican,32737,0.177,Maryland,house,7
+561,Jamie Raskin*,Democrat,211842,0.802,Maryland,house,8
+562,Gregory Coll,Republican,47965,0.182,Maryland,house,8
+563,Andres Garcia,Libertarian,4125,0.016,Maryland,house,8
+564,Richard Neal*,Democrat,157635,0.615,Massachusetts,house,1
+565,Dean Martilli,Republican,98386,0.384,Massachusetts,house,1
+566,Jim McGovern*,Democrat,180639,0.662,Massachusetts,house,2
+567,Jeffrey Sossa-Paquette,Republican,91956,0.337,Massachusetts,house,2
+568,Lori Trahan*,Democrat,154496,0.635,Massachusetts,house,3
+569,Dean Tran,Republican,88585,0.364,Massachusetts,house,3
+570,Jake Auchincloss*,Democrat,201882,0.969,Massachusetts,house,4
+571,Katherine Clark*,Democrat,203994,0.74,Massachusetts,house,5
+572,Caroline Colarusso,Republican,71491,0.259,Massachusetts,house,5
+573,Seth Moulton*,Democrat,198119,0.629,Massachusetts,house,6
+574,Robert May,Republican,110770,0.352,Massachusetts,house,6
+575,Mark Tashjian,Libertarian,5995,0.019,Massachusetts,house,6
+576,Ayanna Pressley*,Democrat,151825,0.846,Massachusetts,house,7
+577,Donnie Palmer,Republican,27129,0.151,Massachusetts,house,7
+578,Stephen Lynch*,Democrat,189987,0.697,Massachusetts,house,8
+579,Robert Burke,Republican,82126,0.301,Massachusetts,house,8
+580,Bill Keating*,Democrat,197823,0.592,Massachusetts,house,9
+581,Jesse Brown,Republican,136347,0.408,Massachusetts,house,9
+582,Jack Bergman*,Republican,233094,0.6,Michigan,house,1
+583,Bob Lorinser,Democrat,145403,0.374,Michigan,house,1
+584,Liz Hakola,Working Class Party,5510,0.014,Michigan,house,1
+585,Andrew Gale,Libertarian,4592,0.012,Michigan,house,1
+586,John Moolenaar*,Republican,216222,0.637,Michigan,house,2
+587,Jerry Hilliard,Democrat,116452,0.343,Michigan,house,2
+588,Nathan Hewer,Libertarian,6847,0.02,Michigan,house,2
+589,Hillary Scholten,Democrat,185989,0.549,Michigan,house,3
+590,John Gibbs,Republican,142229,0.42,Michigan,house,3
+591,Jamie Lewis,Libertarian,6634,0.02,Michigan,house,3
+592,Louis Palus,Working Class Party,4136,0.012,Michigan,house,3
+593,Bill Huizenga*,Republican,183936,0.544,Michigan,house,4
+594,Joseph Alfonso,Democrat,143690,0.425,Michigan,house,4
+595,Lorence Wenke,Libertarian,8478,0.025,Michigan,house,4
+596,Curtis Clark,U.S. Taxpayers Party,2244,0.007,Michigan,house,4
+597,Tim Walberg*,Republican,198020,0.624,Michigan,house,5
+598,Bart Goldberg,Democrat,110946,0.35,Michigan,house,5
+599,Norm Peterson,Libertarian,5129,0.016,Michigan,house,5
+600,Ezra Scott,U.S. Taxpayers Party,3162,0.01,Michigan,house,5
+601,Debbie Dingell*,Democrat,241759,0.659,Michigan,house,6
+602,Whittney Williams,Republican,125167,0.341,Michigan,house,6
+603,Elissa Slotkin*,Democrat,192809,0.517,Michigan,house,7
+604,Tom Barrett,Republican,172624,0.463,Michigan,house,7
+605,Leah Dailey,Libertarian,7275,0.02,Michigan,house,7
+606,Daniel Kildee*,Democrat,178322,0.531,Michigan,house,8
+607,Paul Junge,Republican,143850,0.428,Michigan,house,8
+608,Kathy Goodwin,Working Class Party,9077,0.027,Michigan,house,8
+609,David Canny,Libertarian,4580,0.014,Michigan,house,8
+610,Lisa McClain*,Republican,238300,0.639,Michigan,house,9
+611,Brian Jaye,Democrat,123702,0.332,Michigan,house,9
+612,Jim Walkowicz,Working Class Party,6571,0.018,Michigan,house,9
+613,Jake Kelts,Libertarian,4349,0.012,Michigan,house,9
+614,John James,Republican,159202,0.488,Michigan,house,10
+615,Carl Marlinga,Democrat,157602,0.483,Michigan,house,10
+616,Andrea Kirby,Working Class Party,5905,0.018,Michigan,house,10
+617,Mike Saliba,Libertarian,3524,0.011,Michigan,house,10
+618,Haley Stevens*,Democrat,224537,0.613,Michigan,house,11
+619,Mark Ambrose,Republican,141642,0.387,Michigan,house,11
+620,Rashida Tlaib*,Democrat,196643,0.708,Michigan,house,12
+621,Steven Elliott,Republican,72888,0.263,Michigan,house,12
+622,Gary Walkowicz,Working Class Party,8046,0.029,Michigan,house,12
+623,Shri Thanedar,Democrat,166650,0.711,Michigan,house,13
+624,Martell Bivings,Republican,56187,0.24,Michigan,house,13
+625,Simone Coleman,Working Class Party,8833,0.038,Michigan,house,13
+626,Chris Dardzinski,U.S. Taxpayers Party,2769,0.012,Michigan,house,13
+627,Brad Finstad*,Republican,159621,0.538,Minnesota,house,1
+628,Jeff Ettinger,Democrat,125457,0.423,Minnesota,house,1
+629,Richard Reisdorf,Legal Marijuana Now,6389,0.022,Minnesota,house,1
+630,Brian Abrahamson,Grass Roots Party,4943,0.017,Minnesota,house,1
+631,Angie Craig*,Democrat,165583,0.509,Minnesota,house,2
+632,Tyler Kistner,Republican,148576,0.456,Minnesota,house,2
+633,Paula Overby,Legal Marijuana Now,10728,0.033,Minnesota,house,2
+634,Dean Phillips*,Democrat,198883,0.596,Minnesota,house,3
+635,Tom Weiler,Republican,134797,0.404,Minnesota,house,3
+636,Betty McCollum*,Democrat,200055,0.676,Minnesota,house,4
+637,May Lor Xiong,Republican,95493,0.323,Minnesota,house,4
+638,Ilhan Omar*,Democrat,214224,0.743,Minnesota,house,5
+639,Cicely Davis,Republican,70702,0.245,Minnesota,house,5
+640,Tom Emmer*,Republican,198145,0.62,Minnesota,house,6
+641,Jeanne Hendricks,Democrat,120852,0.378,Minnesota,house,6
+642,Michelle Fischbach*,Republican,204766,0.669,Minnesota,house,7
+643,Jill Abahsain,Democrat,84455,0.276,Minnesota,house,7
+644,Travis Bull Johnson,Legal Marijuana Now,16421,0.054,Minnesota,house,7
+645,Pete Stauber*,Republican,188755,0.572,Minnesota,house,8
+646,Jen Schultz,Democrat,141009,0.427,Minnesota,house,8
+647,Trent Kelly*,Republican,122050,0.729,Mississippi,house,1
+648,Dianne Black,Democrat,45218,0.27,Mississippi,house,1
+649,Bennie Thompson*,Democrat,108285,0.601,Mississippi,house,2
+650,Brian Flowers,Republican,71884,0.399,Mississippi,house,2
+651,Michael Guest*,Republican,132678,0.707,Mississippi,house,3
+652,Shuwaski Young,Democrat,54705,0.291,Mississippi,house,3
+653,Mike Ezell,Republican,127813,0.733,Mississippi,house,4
+654,Johnny DuPree,Democrat,42876,0.246,Mississippi,house,4
+655,Alden Johnson,Libertarian,3569,0.02,Mississippi,house,4
+656,Cori Bush*,Democrat,160999,0.729,Missouri,house,1
+657,Andrew Jones,Republican,53767,0.243,Missouri,house,1
+658,George Zsidisin,Libertarian,6192,0.028,Missouri,house,1
+659,Ann Wagner*,Republican,173277,0.549,Missouri,house,2
+660,Trish Gunby,Democrat,135895,0.431,Missouri,house,2
+661,Bill Slantz,Libertarian,6494,0.021,Missouri,house,2
+662,Blaine Luetkemeyer*,Republican,180746,0.651,Missouri,house,3
+663,Bethany Mann,Democrat,96851,0.349,Missouri,house,3
+664,Mark Alford,Republican,181890,0.713,Missouri,house,4
+665,Jack Truman,Democrat,67069,0.263,Missouri,house,4
+666,Randy Langkraehr,Libertarian,6117,0.024,Missouri,house,4
+667,Emanuel Cleaver*,Democrat,140688,0.61,Missouri,house,5
+668,Jacob Turk,Republican,84008,0.364,Missouri,house,5
+669,Robin Dominick,Libertarian,5859,0.025,Missouri,house,5
+670,Sam Graves*,Republican,184865,0.703,Missouri,house,6
+671,Henry Martin,Democrat,72253,0.275,Missouri,house,6
+672,Andy Maidment,Libertarian,5774,0.022,Missouri,house,6
+673,Eric Burlison,Republican,178592,0.709,Missouri,house,7
+674,Kristen Radaker-Sheafer,Democrat,67485,0.268,Missouri,house,7
+675,Kevin Craig,Libertarian,5869,0.023,Missouri,house,7
+676,Jason Smith*,Republican,186472,0.76,Missouri,house,8
+677,Randi McCallian,Democrat,53738,0.219,Missouri,house,8
+678,Jim Higgins,Libertarian,5185,0.021,Missouri,house,8
+679,Ryan Zinke,Republican,123102,0.496,Montana,house,1
+680,Monica Tranel,Democrat,115265,0.465,Montana,house,1
+681,John Lamb,Libertarian,9593,0.039,Montana,house,1
+682,Matt Rosendale*,Republican,121979,0.566,Montana,house,2
+683,Gary Buchanan,Independent,47195,0.219,Montana,house,2
+684,Penny Ronning,Democrat,43480,0.202,Montana,house,2
+685,Sam Rankin,Libertarian,3018,0.014,Montana,house,2
+686,Mike Flood*,Republican,129236,0.579,Nebraska,house,1
+687,Patty Pansing Brooks,Democrat,93929,0.421,Nebraska,house,1
+688,Don Bacon*,Republican,112663,0.513,Nebraska,house,2
+689,Tony Vargas,Democrat,106807,0.487,Nebraska,house,2
+690,Adrian Smith*,Republican,172700,0.783,Nebraska,house,3
+691,David Else,Democrat,34836,0.158,Nebraska,house,3
+692,Mark Elworth,Legal Marijuana Now,13016,0.059,Nebraska,house,3
+693,Dina Titus*,Democrat,115700,0.516,Nevada,house,1
+694,Mark Robertson,Republican,103115,0.46,Nevada,house,1
+695,Ken Cavanaugh,Libertarian,5534,0.025,Nevada,house,1
+696,Mark Amodei*,Republican,185467,0.597,Nevada,house,2
+697,Elizabeth Mercedes Krause,Democrat,117371,0.378,Nevada,house,2
+698,Russell Best,Independent American,4194,0.014,Nevada,house,2
+699,Darryl Baber,Libertarian,3466,0.011,Nevada,house,2
+700,Susie Lee*,Democrat,131086,0.52,Nevada,house,3
+701,April Becker,Republican,121083,0.48,Nevada,house,3
+702,Steven Horsford*,Democrat,116617,0.524,Nevada,house,4
+703,Sam Peters,Republican,105870,0.476,Nevada,house,4
+704,Chris Pappas*,Democrat,167391,0.54,New Hampshire,house,1
+705,Karoline Leavitt,Republican,142229,0.459,New Hampshire,house,1
+706,Ann Kuster*,Democrat,171636,0.558,New Hampshire,house,2
+707,Robert Burns,Republican,135579,0.441,New Hampshire,house,2
+708,Donald Norcross*,Democrat,139559,0.623,New Jersey,house,1
+709,Claire Gustafson,Republican,78794,0.352,New Jersey,house,1
+710,Patricia Kline,Independent,3343,0.015,New Jersey,house,1
+711,Isaiah Fletcher,Libertarian,1546,0.007,New Jersey,house,1
+712,Allen Cannon,Independent,642,0.003,New Jersey,house,1
+713,Jeff Van Drew*,Republican,139216,0.588,New Jersey,house,2
+714,Tim Alexander,Democrat,94521,0.4,New Jersey,house,2
+715,Mike Gallo,Libertarian,1825,0.008,New Jersey,house,2
+716,Anthony Parisi Sanchez,Independent,920,0.004,New Jersey,house,2
+717,Andy Kim*,Democrat,150497,0.554,New Jersey,house,3
+718,Bob Healey,Republican,118413,0.436,New Jersey,house,3
+719,Christopher Russomanno,Libertarian,1347,0.005,New Jersey,house,3
+720,Gregory Sobocinski,Independent,1116,0.004,New Jersey,house,3
+721,Chris Smith*,Republican,173288,0.669,New Jersey,house,4
+722,Matthew Jenkins,Democrat,81233,0.313,New Jersey,house,4
+723,Jason Cullen,Libertarian,1902,0.007,New Jersey,house,4
+724,David Schmidt,Independent,1197,0.005,New Jersey,house,4
+725,Hank Schroeder,Independent,905,0.003,New Jersey,house,4
+726,Pam Daniels,Independent,437,0.002,New Jersey,house,4
+727,Josh Gottheimer*,Democrat,145559,0.547,New Jersey,house,5
+728,Frank Pallotta,Republican,117873,0.443,New Jersey,house,5
+729,Jeremy Marcus,Libertarian,1193,0.004,New Jersey,house,5
+730,Trevor Ferrigno,Independent,700,0.003,New Jersey,house,5
+731,Louis Vellucci,Independent,618,0.002,New Jersey,house,5
+732,Frank Pallone*,Democrat,106238,0.574,New Jersey,house,6
+733,Susan Kiley,Republican,75839,0.41,New Jersey,house,6
+734,Tara Fisher,Libertarian,1361,0.007,New Jersey,house,6
+735,Inder Soni,Independent,947,0.005,New Jersey,house,6
+736,Eric Antisell,Independent,534,0.003,New Jersey,house,6
+737,Thomas Kean Jr.,Republican,159392,0.513,New Jersey,house,7
+738,Tom Malinowski*,Democrat,150701,0.485,New Jersey,house,7
+739,Robert J Menendez,Democrat,78371,0.735,New Jersey,house,8
+740,Marcos Arroyo,Republican,24956,0.234,New Jersey,house,8
+741,Joanne Kuniansky,Socialist Workers Party,1016,0.01,New Jersey,house,8
+742,Dan Delaney,Libertarian,758,0.007,New Jersey,house,8
+743,David Cook,Independent,714,0.007,New Jersey,house,8
+744,Pablo Olivera,Independent,399,0.004,New Jersey,house,8
+745,John Salierno,Independent,246,0.002,New Jersey,house,8
+746,Bill Pascrell*,Democrat,82457,0.549,New Jersey,house,9
+747,Billy Prempeh,Republican,65365,0.436,New Jersey,house,9
+748,Lea Sherman,Socialist Workers Party,1108,0.007,New Jersey,house,9
+749,Sean Armstrong,Libertarian,1054,0.007,New Jersey,house,9
+750,Donald Payne*,Democrat,100644,0.776,New Jersey,house,10
+751,David Pinckney,Republican,25984,0.2,New Jersey,house,10
+752,Cynthia Johnson,Independent,1989,0.015,New Jersey,house,10
+753,Kendal Ludden,Libertarian,634,0.005,New Jersey,house,10
+754,Clenard Childress,Independent,380,0.003,New Jersey,house,10
+755,Mikie Sherrill*,Democrat,161238,0.589,New Jersey,house,11
+756,Paul DeGroot,Republican,109944,0.402,New Jersey,house,11
+757,Joseph Biasco,Libertarian,2276,0.008,New Jersey,house,11
+758,Bonnie Watson Coleman*,Democrat,125127,0.631,New Jersey,house,12
+759,Darius Mayfield,Republican,71175,0.359,New Jersey,house,12
+760,Lynn Genrich,Libertarian,1925,0.01,New Jersey,house,12
+761,Melanie Stansbury*,Democrat,156462,0.557,New Mexico,house,1
+762,Michelle Garcia Holmes,Republican,124151,0.442,New Mexico,house,1
+763,Gabriel Vasquez,Democrat,96985,0.503,New Mexico,house,2
+764,Yvette Herrell*,Republican,95636,0.496,New Mexico,house,2
+765,Teresa Leger Fernandez*,Democrat,134217,0.582,New Mexico,house,3
+766,Alexis Martinez Johnson,Republican,96565,0.418,New Mexico,house,3
+767,Nicholas LaLota,Republican,173275,0.558,New York,house,1
+768,Bridget Fleming,Democrat,136899,0.441,New York,house,1
+769,Andrew Garbarino*,Republican,148649,0.609,New York,house,2
+770,Jackie Gordon,Democrat,95203,0.39,New York,house,2
+771,George Santos,Republican,142472,0.541,New York,house,3
+772,Robert Zimmerman,Democrat,120737,0.459,New York,house,3
+773,Anthony D'Esposito,Republican,138831,0.519,New York,house,4
+774,Laura Gillen,Democrat,128783,0.481,New York,house,4
+775,Gregory Meeks*,Democrat,97981,0.751,New York,house,5
+776,Paul King,Republican,32393,0.248,New York,house,5
+777,Grace Meng*,Democrat,79506,0.632,New York,house,6
+778,Thomas Zmich,Republican,46188,0.367,New York,house,6
+779,Nydia Velazquez*,Democrat,111968,0.804,New York,house,7
+780,Juan Pagan,Republican,27142,0.195,New York,house,7
+781,Hakeem Jeffries*,Democrat,93295,0.723,New York,house,8
+782,Yuri Dashevsky,Republican,35486,0.275,New York,house,8
+783,Yvette Clarke*,Democrat,111162,0.82,New York,house,9
+784,Menachem Raitport,Conservative,24143,0.178,New York,house,9
+785,Dan Goldman,Democrat,149261,0.834,New York,house,10
+786,Benine Hamdan,Republican,27230,0.152,New York,house,10
+787,Steve Speer,MFP,1357,0.008,New York,house,10
+788,Nicole Malliotakis*,Republican,113485,0.62,New York,house,11
+789,Max Rose,Democrat,69241,0.378,New York,house,11
+790,Jerrold Nadler*,Democrat,186357,0.815,New York,house,12
+791,Michael Zumbluskas,Republican,41264,0.181,New York,house,12
+792,Mikhail Itkis,Independent,583,0.003,New York,house,12
+793,Adriano Espaillat*,Democrat,109014,0.989,New York,house,13
+794,Alexandria Ocasio-Cortez*,Democrat,78788,0.705,New York,house,14
+795,Tina Forte,Republican,30661,0.274,New York,house,14
+796,Desi Cuellar,Conservative,2128,0.019,New York,house,14
+797,Ritchie Torres*,Democrat,72610,0.825,New York,house,15
+798,Stylo Sapaskis,Republican,15265,0.173,New York,house,15
+799,Jamaal Bowman*,Democrat,131185,0.641,New York,house,16
+800,Miriam Flisser,Republican,73238,0.358,New York,house,16
+801,Michael Lawler,Republican,141721,0.504,New York,house,17
+802,Sean Patrick Maloney*,Democrat,139082,0.495,New York,house,17
+803,Pat Ryan*,Democrat,131474,0.504,New York,house,18
+804,Colin Schmitt,Republican,129403,0.496,New York,house,18
+805,Marc Molinaro,Republican,142980,0.511,New York,house,19
+806,Josh Riley,Democrat,136847,0.489,New York,house,19
+807,Paul Tonko*,Democrat,157913,0.549,New York,house,20
+808,Elizabeth Joy,Republican,129470,0.45,New York,house,20
+809,Elise Stefanik*,Republican,165634,0.594,New York,house,21
+810,Matt Castelli,Democrat,113255,0.406,New York,house,21
+811,Brandon Williams,Republican,134497,0.505,New York,house,22
+812,Francis Conole,Democrat,131908,0.495,New York,house,22
+813,Nick Langworthy,Republican,189725,0.649,New York,house,23
+814,Max Della Pia,Democrat,102260,0.35,New York,house,23
+815,Claudia Tenney*,Republican,177901,0.659,New York,house,24
+816,Steve Holden,Democrat,91703,0.34,New York,house,24
+817,Joseph Morelle*,Democrat,148681,0.536,New York,house,25
+818,La'Ron Singletary,Republican,128502,0.463,New York,house,25
+819,Brian Higgins*,Democrat,154480,0.639,New York,house,26
+820,Steven Sams,Republican,87191,0.361,New York,house,26
+821,Don Davis,Democrat,134996,0.524,North Carolina,house,1
+822,Sandy Smith,Republican,122780,0.476,North Carolina,house,1
+823,Deborah Ross*,Democrat,190714,0.647,North Carolina,house,2
+824,Christine Villaverde,Republican,104155,0.353,North Carolina,house,2
+825,Greg Murphy*,Republican,166520,0.669,North Carolina,house,3
+826,Barbara Gaskins,Democrat,82378,0.331,North Carolina,house,3
+827,Valerie Foushee,Democrat,194983,0.669,North Carolina,house,4
+828,Courtney Geels,Republican,96442,0.331,North Carolina,house,4
+829,Virginia Foxx*,Republican,175279,0.632,North Carolina,house,5
+830,Kyle Parrish,Democrat,102269,0.368,North Carolina,house,5
+831,Kathy Manning*,Democrat,139553,0.539,North Carolina,house,6
+832,Christian Castelli,Republican,116635,0.45,North Carolina,house,6
+833,Thomas Watercott,Libertarian,2810,0.011,North Carolina,house,6
+834,David Rouzer*,Republican,164047,0.577,North Carolina,house,7
+835,Charles Graham,Democrat,120222,0.423,North Carolina,house,7
+836,Dan Bishop*,Republican,183998,0.699,North Carolina,house,8
+837,Scott Huffman,Democrat,79192,0.301,North Carolina,house,8
+838,Richard Hudson*,Republican,131453,0.565,North Carolina,house,9
+839,Ben Clark,Democrat,101202,0.435,North Carolina,house,9
+840,Patrick McHenry*,Republican,194681,0.726,North Carolina,house,10
+841,Pam Genant,Democrat,73174,0.273,North Carolina,house,10
+842,Chuck Edwards,Republican,174232,0.538,North Carolina,house,11
+843,Jasmine Beach-Ferrara,Democrat,144165,0.445,North Carolina,house,11
+844,David Coatney,Libertarian,5515,0.017,North Carolina,house,11
+845,Alma Adams*,Democrat,140494,0.627,North Carolina,house,12
+846,Tyler Lee,Republican,83414,0.373,North Carolina,house,12
+847,Wiley Nickel,Democrat,143090,0.516,North Carolina,house,13
+848,Bo Hines,Republican,134256,0.484,North Carolina,house,13
+849,Jeff Jackson,Democrat,148738,0.577,North Carolina,house,14
+850,Pat Harrigan,Republican,109014,0.423,North Carolina,house,14
+851,Kelly Armstrong*,Republican,148399,0.622,North Dakota,house,at large
+852,Cara Mund,Independent,89644,0.376,North Dakota,house,at large
+853,Greg Landsman,Democrat,155774,0.529,Ohio,house,1
+854,Steve Chabot*,Republican,138885,0.471,Ohio,house,1
+855,Brad Wenstrup*,Republican,188300,0.745,Ohio,house,2
+856,Samantha Meadows,Democrat,64329,0.255,Ohio,house,2
+857,Joyce Beatty*,Democrat,174846,0.701,Ohio,house,3
+858,Lee Stahley,Republican,74335,0.298,Ohio,house,3
+859,Jim Jordan*,Republican,196898,0.693,Ohio,house,4
+860,Tamie Wilson,Democrat,87144,0.307,Ohio,house,4
+861,Bob Latta*,Republican,184205,0.67,Ohio,house,5
+862,Craig Swartz,Democrat,90614,0.33,Ohio,house,5
+863,Bill Johnson*,Republican,186965,0.677,Ohio,house,6
+864,Louis Lyras,Democrat,89086,0.323,Ohio,house,6
+865,Max Miller,Republican,164904,0.554,Ohio,house,7
+866,Matthew Diemer,Democrat,132548,0.445,Ohio,house,7
+867,Warren Davidson*,Republican,178193,0.647,Ohio,house,8
+868,Vanessa Enoch,Democrat,97337,0.353,Ohio,house,8
+869,Marcy Kaptur*,Democrat,147512,0.565,Ohio,house,9
+870,J.R. Majewski,Republican,113363,0.435,Ohio,house,9
+871,Mike Turner*,Republican,161792,0.622,Ohio,house,10
+872,David Esrati,Democrat,98383,0.378,Ohio,house,10
+873,Shontel Brown*,Democrat,162154,0.776,Ohio,house,11
+874,Eric Brewer,Republican,46862,0.224,Ohio,house,11
+875,Troy Balderson*,Republican,187322,0.695,Ohio,house,12
+876,Amy Rippel-Elton,Democrat,82101,0.305,Ohio,house,12
+877,Emilia Sykes,Democrat,146621,0.526,Ohio,house,13
+878,Madison Gesiotto Gilbert,Republican,132181,0.474,Ohio,house,13
+879,David Joyce*,Republican,180251,0.619,Ohio,house,14
+880,Matt Kilboy,Democrat,111155,0.381,Ohio,house,14
+881,Mike Carey*,Republican,140012,0.572,Ohio,house,15
+882,Gary Josephson,Democrat,104613,0.428,Ohio,house,15
+883,Kevin Hern*,Republican,142800,0.612,Oklahoma,house,1
+884,Adam Martin,Democrat,80974,0.347,Oklahoma,house,1
+885,Evelyn Rogers,Independent,9721,0.042,Oklahoma,house,1
+886,Josh Brecheen,Republican,167843,0.724,Oklahoma,house,2
+887,Naomi Andrews,Democrat,54194,0.234,Oklahoma,house,2
+888,Ben Robinson,Independent,9635,0.042,Oklahoma,house,2
+889,Frank Lucas*,Republican,147418,0.745,Oklahoma,house,3
+890,Jeremiah Ross,Democrat,50354,0.255,Oklahoma,house,3
+891,Tom Cole*,Republican,149879,0.667,Oklahoma,house,4
+892,Mary Brannon,Democrat,74667,0.333,Oklahoma,house,4
+893,Stephanie Bice*,Republican,152699,0.59,Oklahoma,house,5
+894,Joshua Harris-Till,Democrat,96799,0.374,Oklahoma,house,5
+895,David Frosch,Independent,9328,0.036,Oklahoma,house,5
+896,Suzanne Bonamici*,Democrat,210005,0.68,Oregon,house,1
+897,Christopher Mann,Republican,98659,0.32,Oregon,house,1
+898,Cliff Bentz*,Republican,208369,0.676,Oregon,house,2
+899,Joe Yetter,Democrat,99882,0.324,Oregon,house,2
+900,Earl Blumenauer*,Democrat,212121,0.7,Oregon,house,3
+901,Joanna Harbour,Republican,79766,0.263,Oregon,house,3
+902,David Delk,Progressive,10981,0.036,Oregon,house,3
+903,Val Hoyle,Democrat,171372,0.506,Oregon,house,4
+904,Alek Skarlatos,Republican,146055,0.431,Oregon,house,4
+905,Levi Leatherberry,Independent,9052,0.027,Oregon,house,4
+906,Jim Howard,Constitution,6075,0.018,Oregon,house,4
+907,Mike Beilstein,Pacific Green,6033,0.018,Oregon,house,4
+908,Lori Chavez-DeRemer,Republican,178813,0.51,Oregon,house,5
+909,Jamie McLeod-Skinner,Democrat,171514,0.49,Oregon,house,5
+910,Andrea Salinas,Democrat,147156,0.501,Oregon,house,6
+911,Mike Erickson,Republican,139946,0.476,Oregon,house,6
+912,Larry McFarland,Constitution,6762,0.023,Oregon,house,6
+913,Brian Fitzpatrick*,Republican,201564,0.549,Pennsylvania,house,1
+914,Ashley Ehasz,Democrat,165803,0.451,Pennsylvania,house,1
+915,Brendan Boyle*,Democrat,141229,0.757,Pennsylvania,house,2
+916,Aaron Bashir,Republican,45454,0.243,Pennsylvania,house,2
+917,Dwight Evans*,Democrat,251116,0.951,Pennsylvania,house,3
+918,Chris Hoeppner,Socialist Workers Party,12820,0.049,Pennsylvania,house,3
+919,Madeleine Dean*,Democrat,224495,0.613,Pennsylvania,house,4
+920,Christian Nascimento,Republican,141870,0.387,Pennsylvania,house,4
+921,Mary Gay Scanlon*,Democrat,204532,0.65,Pennsylvania,house,5
+922,David Galluch,Republican,109978,0.35,Pennsylvania,house,5
+923,Chrissy Houlahan*,Democrat,189785,0.583,Pennsylvania,house,6
+924,Guy Ciarrocchi,Republican,135909,0.417,Pennsylvania,house,6
+925,Susan Wild*,Democrat,151364,0.51,Pennsylvania,house,7
+926,Lisa Scheller,Republican,145527,0.49,Pennsylvania,house,7
+927,Matthew Cartwright*,Democrat,147136,0.512,Pennsylvania,house,8
+928,Jim Bognet,Republican,140277,0.488,Pennsylvania,house,8
+929,Daniel Meuser*,Republican,209107,0.693,Pennsylvania,house,9
+930,Amanda Waldman,Democrat,92527,0.307,Pennsylvania,house,9
+931,Scott Perry*,Republican,169331,0.538,Pennsylvania,house,10
+932,Shamaine Daniels,Democrat,145215,0.462,Pennsylvania,house,10
+933,Lloyd Smucker*,Republican,194991,0.615,Pennsylvania,house,11
+934,Bob Hollister,Democrat,121835,0.385,Pennsylvania,house,11
+935,Summer Lee,Democrat,184674,0.562,Pennsylvania,house,12
+936,Mike Doyle,Republican,143946,0.438,Pennsylvania,house,12
+937,John Joyce*,Republican,260345,1,Pennsylvania,house,13
+938,Guy Reschenthaler*,Republican,230848,0.998,Pennsylvania,house,14
+939,Glenn Thompson*,Republican,213373,0.699,Pennsylvania,house,15
+940,Michael Molesevich,Democrat,91699,0.3,Pennsylvania,house,15
+941,Mike Kelly*,Republican,190546,0.594,Pennsylvania,house,16
+942,Dan Pastore,Democrat,130443,0.406,Pennsylvania,house,16
+943,Chris Deluzio,Democrat,193615,0.534,Pennsylvania,house,17
+944,Jeremy Shaffer,Republican,169013,0.466,Pennsylvania,house,17
+945,David Cicilline*,Democrat,100318,0.64,Rhode Island,house,1
+946,Allen Waters,Republican,56055,0.358,Rhode Island,house,1
+947,Seth Magaziner,Democrat,101432,0.504,Rhode Island,house,2
+948,Allan Fung,Republican,93969,0.467,Rhode Island,house,2
+949,William Gilbert,Moderate Party,5489,0.027,Rhode Island,house,2
+950,Nancy Mace*,Republican,153757,0.564,South Carolina,house,1
+951,Annie Andrews,Democrat,115796,0.425,South Carolina,house,1
+952,Joseph Oddo,Alliance,2634,0.01,South Carolina,house,1
+953,Joe Wilson*,Republican,147699,0.6,South Carolina,house,2
+954,Judd Larkins,Democrat,98081,0.398,South Carolina,house,2
+955,Jeff Duncan*,Republican,189971,0.976,South Carolina,house,3
+956,William Timmons*,Republican,165607,0.908,South Carolina,house,4
+957,Ralph Norman*,Republican,154725,0.64,South Carolina,house,5
+958,Evangeline Hundley,Democrat,83299,0.345,South Carolina,house,5
+959,Larry Gaither,Green,3547,0.015,South Carolina,house,5
+960,Jim Clyburn*,Democrat,130923,0.62,South Carolina,house,6
+961,Duke Buckner,Republican,79879,0.379,South Carolina,house,6
+962,Russell Fry,Republican,164440,0.648,South Carolina,house,7
+963,Daryl Scott,Democrat,89030,0.351,South Carolina,house,7
+964,Dusty Johnson*,Republican,253821,0.774,South Dakota,house,at large
+965,Collin Duprel,Libertarian,74020,0.226,South Dakota,house,at large
+966,Diana Harshbarger*,Republican,147153,0.783,Tennessee,house,1
+967,Cameron Parsons,Democrat,37032,0.197,Tennessee,house,1
+968,Richard Baker,Independent,2466,0.013,Tennessee,house,1
+969,Matt Makrom,Independent,1245,0.007,Tennessee,house,1
+970,Tim Burchett*,Republican,141041,0.679,Tennessee,house,2
+971,Mark Harmon,Democrat,66637,0.321,Tennessee,house,2
+972,Chuck Fleischmann*,Republican,135934,0.682,Tennessee,house,3
+973,Meg Gorman,Democrat,60230,0.302,Tennessee,house,3
+974,Rick Tyler,Independent,1725,0.009,Tennessee,house,3
+975,Thomas Rumba,Independent,1116,0.006,Tennessee,house,3
+976,Scott DesJarlais*,Republican,122336,0.706,Tennessee,house,4
+977,Wayne Steele,Democrat,44628,0.257,Tennessee,house,4
+978,Mike Winton,Independent,2834,0.016,Tennessee,house,4
+979,Clyde Benson,Independent,1804,0.01,Tennessee,house,4
+980,David Jones,Independent,708,0.004,Tennessee,house,4
+981,Tharon Chandler,Independent,584,0.003,Tennessee,house,4
+982,Joseph Magyer,Independent,454,0.003,Tennessee,house,4
+983,Andy Ogles,Republican,123358,0.558,Tennessee,house,5
+984,Heidi Campbell,Democrat,93375,0.423,Tennessee,house,5
+985,Derrick Brantley,Independent,2083,0.009,Tennessee,house,5
+986,Daniel Cooper,Independent,1125,0.005,Tennessee,house,5
+987,Rick Shannon,Independent,846,0.004,Tennessee,house,5
+988,John Rose*,Republican,129311,0.663,Tennessee,house,6
+989,Randal Cooper,Democrat,65598,0.336,Tennessee,house,6
+990,Mark Green*,Republican,108358,0.599,Tennessee,house,7
+991,Odessa Kelly,Democrat,68897,0.381,Tennessee,house,7
+992,Steven Hooper,Independent,3423,0.019,Tennessee,house,7
+993,David Kustoff*,Republican,155556,0.739,Tennessee,house,8
+994,Lynnette Williams,Democrat,51083,0.243,Tennessee,house,8
+995,James Hart,Independent,2541,0.012,Tennessee,house,8
+996,Ronnie Henley,Independent,1070,0.005,Tennessee,house,8
+997,Steve Cohen*,Democrat,93755,0.7,Tennessee,house,9
+998,Charlotte Bergmann,Republican,35112,0.262,Tennessee,house,9
+999,George Flinn,Independent,3348,0.025,Tennessee,house,9
+1000,Dennis Clark,Independent,1160,0.009,Tennessee,house,9
+1001,Paul Cook,Independent,484,0.004,Tennessee,house,9
+1002,Nathaniel Moran,Republican,183224,0.781,Texas,house,1
+1003,Jrmar Jefferson,Democrat,51438,0.219,Texas,house,1
+1004,Dan Crenshaw*,Republican,151791,0.659,Texas,house,2
+1005,Robin Fulford,Democrat,78496,0.341,Texas,house,2
+1006,Keith Self,Republican,164240,0.605,Texas,house,3
+1007,Sandeep Srivastava,Democrat,100121,0.369,Texas,house,3
+1008,Christopher Claytor,Libertarian,6895,0.025,Texas,house,3
+1009,Pat Fallon*,Republican,170781,0.667,Texas,house,4
+1010,Iro Omere,Democrat,79179,0.309,Texas,house,4
+1011,John Simmons,Libertarian,6049,0.024,Texas,house,4
+1012,Lance Gooden*,Republican,135595,0.64,Texas,house,5
+1013,Tartisha Hill,Democrat,71930,0.339,Texas,house,5
+1014,Kevin Hale,Libertarian,4293,0.02,Texas,house,5
+1015,Jake Ellzey*,Republican,149321,1,Texas,house,6
+1016,Lizzie Fletcher*,Democrat,115994,0.638,Texas,house,7
+1017,Johnny Teague,Republican,65835,0.362,Texas,house,7
+1018,Morgan Luttrell,Republican,153127,0.681,Texas,house,8
+1019,Laura Jones,Democrat,68715,0.305,Texas,house,8
+1020,Roy Eriksen,Libertarian,3126,0.014,Texas,house,8
+1021,Al Green*,Democrat,125446,0.767,Texas,house,9
+1022,Jimmy Leon,Republican,38161,0.233,Texas,house,9
+1023,Michael McCaul*,Republican,159469,0.633,Texas,house,10
+1024,Linda Nuno,Democrat,86404,0.343,Texas,house,10
+1025,Bill Kelsey,Libertarian,6064,0.024,Texas,house,10
+1026,August Pfluger*,Republican,151066,1,Texas,house,11
+1027,Kay Granger*,Republican,152953,0.643,Texas,house,12
+1028,Trey Hunt,Democrat,85026,0.357,Texas,house,12
+1029,Ronny Jackson*,Republican,161767,0.754,Texas,house,13
+1030,Kathleen Brown,Democrat,52910,0.246,Texas,house,13
+1031,Randy Weber*,Republican,149543,0.702,Texas,house,14
+1032,Mikal Williams,Democrat,63606,0.298,Texas,house,14
+1033,Monica De La Cruz,Republican,80978,0.533,Texas,house,15
+1034,Michelle Vallejo,Democrat,68097,0.448,Texas,house,15
+1035,Ross Leone,Libertarian,2814,0.019,Texas,house,15
+1036,Veronica Escobar*,Democrat,95510,0.635,Texas,house,16
+1037,Irene Armendariz Jackson,Republican,54986,0.365,Texas,house,16
+1038,Pete Sessions*,Republican,144408,0.665,Texas,house,17
+1039,Mary Jo Woods,Democrat,72801,0.335,Texas,house,17
+1040,Sheila Jackson Lee*,Democrat,110511,0.707,Texas,house,18
+1041,Carmen Montiel,Republican,40941,0.262,Texas,house,18
+1042,Vince Duncan,Independent,2766,0.018,Texas,house,18
+1043,Phil Kurtz,Libertarian,2050,0.013,Texas,house,18
+1044,Jodey Arrington*,Republican,152321,0.803,Texas,house,19
+1045,Nathan Lewis,Independent,37360,0.197,Texas,house,19
+1046,Joaquin Castro*,Democrat,115352,0.684,Texas,house,20
+1047,Kyle Sinclair,Republican,53226,0.316,Texas,house,20
+1048,Chip Roy*,Republican,207426,0.628,Texas,house,21
+1049,Claudia Zapata,Democrat,122655,0.372,Texas,house,21
+1050,Troy Nehls*,Republican,150014,0.622,Texas,house,22
+1051,Jamie Jordan,Democrat,85653,0.355,Texas,house,22
+1052,Joseph LeBlanc,Libertarian,5378,0.022,Texas,house,22
+1053,Tony Gonzales*,Republican,116649,0.559,Texas,house,23
+1054,John Lira,Democrat,80947,0.388,Texas,house,23
+1055,Frank Lopez,Independent,11180,0.054,Texas,house,23
+1056,Beth Van Duyne*,Republican,177947,0.597,Texas,house,24
+1057,Jan McDowell,Democrat,119878,0.403,Texas,house,24
+1058,Roger Williams*,Republican,185270,1,Texas,house,25
+1059,Michael Burgess*,Republican,183639,0.693,Texas,house,26
+1060,Mike Kolls,Libertarian,81384,0.307,Texas,house,26
+1061,Michael Cloud*,Republican,133416,0.644,Texas,house,27
+1062,Maclovio Perez,Democrat,73611,0.356,Texas,house,27
+1063,Henry Cuellar*,Democrat,93803,0.567,Texas,house,28
+1064,Cassy Garcia,Republican,71778,0.433,Texas,house,28
+1065,Sylvia Garcia*,Democrat,71837,0.714,Texas,house,29
+1066,Robert Schafranek,Republican,28765,0.286,Texas,house,29
+1067,Jasmine Crockett,Democrat,134876,0.747,Texas,house,30
+1068,James Rodgers,Republican,39209,0.217,Texas,house,30
+1069,Zachariah Manning,Independent,3820,0.021,Texas,house,30
+1070,Phil Gray,Libertarian,1870,0.01,Texas,house,30
+1071,John Carter*,Republican,183185,1,Texas,house,31
+1072,Colin Allred*,Democrat,116005,0.654,Texas,house,32
+1073,Antonio Swad,Republican,61494,0.346,Texas,house,32
+1074,Marc Veasey*,Democrat,82081,0.72,Texas,house,33
+1075,Patrick Gillespie,Republican,29203,0.256,Texas,house,33
+1076,Ken Ashby,Libertarian,2746,0.024,Texas,house,33
+1077,Vicente Gonzalez*,Democrat,70896,0.527,Texas,house,34
+1078,Mayra Flores*,Republican,59464,0.442,Texas,house,34
+1079,Chris Royal,Independent,4079,0.03,Texas,house,34
+1080,Greg Casar,Democrat,129599,0.726,Texas,house,35
+1081,Dan McQueen,Republican,48969,0.274,Texas,house,35
+1082,Brian Babin*,Republican,145599,0.695,Texas,house,36
+1083,Jon Haire,Democrat,64016,0.305,Texas,house,36
+1084,Lloyd Doggett*,Democrat,219358,0.768,Texas,house,37
+1085,Jenny Garcia Sharon,Republican,59923,0.21,Texas,house,37
+1086,Clark Patterson,Libertarian,6332,0.022,Texas,house,37
+1087,Wesley Hunt,Republican,163597,0.63,Texas,house,38
+1088,Duncan Klussmann,Democrat,92302,0.355,Texas,house,38
+1089,Joel Dejean,Independent,3970,0.015,Texas,house,38
+1090,Blake Moore*,Republican,178434,0.67,Utah,house,1
+1091,Rick Jones,Democrat,87986,0.33,Utah,house,1
+1092,Chris Stewart*,Republican,154883,0.597,Utah,house,2
+1093,Nick Mitchell,Democrat,88224,0.34,Utah,house,2
+1094,JayMac McFarland,United Utah,8622,0.033,Utah,house,2
+1095,Cassie Easley,Constitution,7670,0.03,Utah,house,2
+1096,John Curtis*,Republican,182497,0.644,Utah,house,3
+1097,Glenn Wright,Democrat,83687,0.295,Utah,house,3
+1098,Michael Stoddard,Libertarian,8287,0.029,Utah,house,3
+1099,Daniel Cummings,Constitution,4874,0.017,Utah,house,3
+1100,Aaron Heineman,Independent American,4035,0.014,Utah,house,3
+1101,Burgess Owens*,Republican,155110,0.611,Utah,house,4
+1102,Darlene McDonald,Democrat,82181,0.323,Utah,house,4
+1103,January Walker,United Utah,16740,0.066,Utah,house,4
+1104,Becca Balint,Democrat,176494,0.626,Vermont,house,at large
+1105,Liam Madden,Republican,78397,0.278,Vermont,house,at large
+1106,Ericka Redic,Libertarian,12590,0.045,Vermont,house,at large
+1107,Matt Druzba,Independent,5737,0.02,Vermont,house,at large
+1108,Luke Talbot,Independent,4428,0.016,Vermont,house,at large
+1109,Adam Ortiz,Independent,3376,0.012,Vermont,house,at large
+1110,Rob Wittman*,Republican,191828,0.56,Virginia,house,1
+1111,Herbert Jones,Democrat,147229,0.43,Virginia,house,1
+1112,David Foster,Independent,3388,0.01,Virginia,house,1
+1113,Jen Kiggans,Republican,153328,0.516,Virginia,house,2
+1114,Elaine Luria*,Democrat,143219,0.482,Virginia,house,2
+1115,Bobby Scott*,Democrat,139659,0.672,Virginia,house,3
+1116,Terry Namkung,Republican,67668,0.326,Virginia,house,3
+1117,Donald McEachin*,Democrat,159044,0.649,Virginia,house,4
+1118,Leon Benjamin,Republican,85503,0.349,Virginia,house,4
+1119,Bob Good*,Republican,177191,0.576,Virginia,house,5
+1120,Josh Throneburg,Democrat,129996,0.422,Virginia,house,5
+1121,Ben Cline*,Republican,173352,0.644,Virginia,house,6
+1122,Jennifer Lewis,Democrat,95410,0.354,Virginia,house,6
+1123,Abigail Spanberger*,Democrat,143357,0.522,Virginia,house,7
+1124,Yesli Vega,Republican,130586,0.476,Virginia,house,7
+1125,Donald Beyer*,Democrat,197760,0.735,Virginia,house,8
+1126,Karina Lipsman,Republican,66589,0.248,Virginia,house,8
+1127,Teddy Fikre,Independent,4078,0.015,Virginia,house,8
+1128,Morgan Griffith*,Republican,182207,0.732,Virginia,house,9
+1129,Taysha DeVaughan,Democrat,66027,0.265,Virginia,house,9
+1130,Jennifer Wexton*,Democrat,157405,0.532,Virginia,house,10
+1131,Hung Cao,Republican,138163,0.467,Virginia,house,10
+1132,Gerry Connolly*,Democrat,193190,0.667,Virginia,house,11
+1133,James Myles,Republican,95634,0.33,Virginia,house,11
+1134,Suzan DelBene*,Democrat,181992,0.635,Washington,house,1
+1135,Vincent Cavaleri,Republican,104329,0.364,Washington,house,1
+1136,Rick Larsen*,Democrat,202980,0.601,Washington,house,2
+1137,Dan Matthews,Republican,134335,0.398,Washington,house,2
+1138,Marie Gluesenkamp Perez,Democrat,160314,0.501,Washington,house,3
+1139,Joe Kent,Republican,157685,0.493,Washington,house,3
+1140,Dan Newhouse*,Republican,150619,0.665,Washington,house,4
+1141,Doug White,Democrat,70710,0.312,Washington,house,4
+1142,Cathy McMorris Rodgers*,Republican,188648,0.595,Washington,house,5
+1143,Natasha Hill,Democrat,127585,0.402,Washington,house,5
+1144,Derek Kilmer*,Democrat,208710,0.6,Washington,house,6
+1145,Elizabeth Kreiselmaier,Republican,138754,0.399,Washington,house,6
+1146,Pramila Jayapal*,Democrat,295998,0.854,Washington,house,7
+1147,Cliff Moon,Republican,49207,0.142,Washington,house,7
+1148,Kim Schrier*,Democrat,179003,0.533,Washington,house,8
+1149,Matt Larkin,Republican,155976,0.464,Washington,house,8
+1150,Adam Smith*,Democrat,171746,0.716,Washington,house,9
+1151,Doug Basler,Republican,67631,0.282,Washington,house,9
+1152,Marilyn Strickland*,Democrat,152544,0.57,Washington,house,10
+1153,Keith Swank,Republican,114777,0.429,Washington,house,10
+1154,Carol Miller*,Republican,151511,0.667,West Virginia,house,1
+1155,Lacy Watson,Democrat,65428,0.288,West Virginia,house,1
+1156,Belinda Fox-Spencer,Independent,10257,0.045,West Virginia,house,1
+1157,Alex Mooney*,Republican,160493,0.656,West Virginia,house,2
+1158,Barry Lee Wendell,Democrat,84278,0.344,West Virginia,house,2
+1159,Bryan Steil*,Republican,162610,0.54,Wisconsin,house,1
+1160,Ann Roe,Democrat,135825,0.451,Wisconsin,house,1
+1161,Charles Barman,Independent,2247,0.007,Wisconsin,house,1
+1162,Mark Pocan*,Democrat,268740,0.71,Wisconsin,house,2
+1163,Erik Olsen,Republican,101890,0.269,Wisconsin,house,2
+1164,Douglas Alexander,Independent,7689,0.02,Wisconsin,house,2
+1165,Derrick Van Orden,Republican,164743,0.518,Wisconsin,house,3
+1166,Brad Pfaff,Democrat,152977,0.481,Wisconsin,house,3
+1167,Gwen Moore*,Democrat,191955,0.753,Wisconsin,house,4
+1168,Tim Rogers,Republican,57660,0.226,Wisconsin,house,4
+1169,Robert Raymond,Independent,5164,0.02,Wisconsin,house,4
+1170,Scott Fitzgerald*,Republican,243741,0.644,Wisconsin,house,5
+1171,Mike Van Someren,Democrat,134581,0.356,Wisconsin,house,5
+1172,Glenn Grothman*,Republican,239231,0.949,Wisconsin,house,6
+1173,Tom Tiffany*,Republican,209224,0.619,Wisconsin,house,7
+1174,Richard Ausman,Democrat,128877,0.381,Wisconsin,house,7
+1175,Mike Gallagher*,Republican,223981,0.722,Wisconsin,house,8
+1176,Paul Boucher,Independent,46871,0.151,Wisconsin,house,8
+1177,Jacob VandenPlas,Libertarian,32057,0.103,Wisconsin,house,8
+1178,Harriet Hageman,Republican,132206,0.682,Wyoming,house,at large
+1179,Lynnette Grey Bull,Democrat,47250,0.244,Wyoming,house,at large
+1180,Richard Brubaker,Libertarian,5420,0.028,Wyoming,house,at large
+1181,Marissa Selvig,Constitution,4505,0.023,Wyoming,house,at large
+1182,Kay Ivey*,Republican,946932,0.669,Alabama,governor,
+1183,Yolanda Flowers,Democrat,412961,0.292,Alabama,governor,
+1184,Jimmy Blake,Libertarian,45958,0.032,Alabama,governor,
+1185,Mike Dunleavy*,Republican,132632,0.503,Alaska,governor,
+1186,Les Gara,Democrat,63851,0.242,Alaska,governor,
+1187,Bill Walker,Independent,54668,0.207,Alaska,governor,
+1188,Charlie Pierce,Republican,11817,0.045,Alaska,governor,
+1189,Katie Hobbs,Democrat,1287891,0.503,Arizona,governor,
+1190,Kari Lake,Republican,1270774,0.496,Arizona,governor,
+1191,Sarah Huckabee Sanders,Republican,571105,0.629,Arkansas,governor,
+1192,Chris Jones,Democrat,319242,0.352,Arkansas,governor,
+1193,Ricky Harrington,Libertarian,16690,0.018,Arkansas,governor,
+1194,Gavin Newsom*,Democrat,6470099,0.592,California,governor,
+1195,Brian Dahle,Republican,4462910,0.408,California,governor,
+1196,Jared Polis*,Democrat,1468481,0.585,Colorado,governor,
+1197,Heidi Ganahl,Republican,983040,0.392,Colorado,governor,
+1198,Kevin Ruskusky,Libertarian,28939,0.012,Colorado,governor,
+1199,Danielle Neuschwanger,American Constitution,21623,0.009,Colorado,governor,
+1200,Paul Fiorino,Unity,6687,0.003,Colorado,governor,
+1201,Ned Lamont*,Democrat,709147,0.559,Connecticut,governor,
+1202,Bob Stefanowski,Republican,546209,0.431,Connecticut,governor,
+1203,Rob Hotaling,Independent,12400,0.01,Connecticut,governor,
+1204,Ron DeSantis*,Republican,4614210,0.594,Florida,governor,
+1205,Charlie Crist,Democrat,3106313,0.4,Florida,governor,
+1206,Carmen Gimenez,No Party Affiliation,31577,0.004,Florida,governor,
+1207,Hector Roos,Libertarian,19299,0.002,Florida,governor,
+1208,Brian Kemp*,Republican,2111572,0.534,Georgia,governor,
+1209,Stacey Abrams,Democrat,1813673,0.459,Georgia,governor,
+1210,Shane Hazel,Libertarian,28163,0.007,Georgia,governor,
+1211,Josh Green,Democrat,261025,0.632,Hawaii,governor,
+1212,Duke Aiona,Republican,152237,0.368,Hawaii,governor,
+1213,Brad Little*,Republican,358598,0.605,Idaho,governor,
+1214,Stephen Heidt,Democrat,120160,0.203,Idaho,governor,
+1215,Ammon Bundy,Independent,101835,0.172,Idaho,governor,
+1216,Paul Sand,Libertarian,6714,0.011,Idaho,governor,
+1217,Chantyrose Davison,Constitution,5250,0.009,Idaho,governor,
+1218,J.B. Pritzker*,Democrat,2198350,0.545,Illinois,governor,
+1219,Darren Bailey,Republican,1728204,0.428,Illinois,governor,
+1220,Scott Schluter,Libertarian,110029,0.027,Illinois,governor,
+1221,Kim Reynolds*,Republican,709201,0.58,Iowa,governor,
+1222,Deidre DeJear,Democrat,482978,0.395,Iowa,governor,
+1223,Rick Stewart,Libertarian,29000,0.024,Iowa,governor,
+1224,Laura Kelly*,Democrat,494235,0.496,Kansas,governor,
+1225,Derek Schmidt,Republican,471563,0.473,Kansas,governor,
+1226,Dennis Pyle,Independent,20059,0.02,Kansas,governor,
+1227,Seth Cordell,Libertarian,10889,0.011,Kansas,governor,
+1228,Janet Mills*,Democrat,375332,0.556,Maine,governor,
+1229,Paul LePage,Republican,287087,0.425,Maine,governor,
+1230,Sam Hunkler,Independent,12562,0.019,Maine,governor,
+1231,Wes Moore,Democrat,1293944,0.645,Maryland,governor,
+1232,Dan Cox,Republican,644000,0.321,Maryland,governor,
+1233,David Lashar,Libertarian,30101,0.015,Maryland,governor,
+1234,David Harding,Working Class Party,17154,0.009,Maryland,governor,
+1235,Nancy Wallace,Green,14580,0.007,Maryland,governor,
+1236,Maura Healey,Democrat,1581214,0.637,Massachusetts,governor,
+1237,Geoff Diehl,Republican,859433,0.346,Massachusetts,governor,
+1238,Kevin Reed,Libertarian,39205,0.016,Massachusetts,governor,
+1239,Gretchen Whitmer*,Democrat,2430505,0.545,Michigan,governor,
+1240,Tudor Dixon,Republican,1960635,0.439,Michigan,governor,
+1241,Mary Buzuma,Libertarian,38800,0.009,Michigan,governor,
+1242,Donna Brandenburg,U.S. Taxpayers Party,16246,0.004,Michigan,governor,
+1243,Kevin Hogan,Green,10766,0.002,Michigan,governor,
+1244,Daryl Simpson,Natural Law Party,4973,0.001,Michigan,governor,
+1245,Tim Walz*,Democrat,1312349,0.523,Minnesota,governor,
+1246,Scott Jensen,Republican,1119941,0.446,Minnesota,governor,
+1247,James McCaskel,Legal Marijuana Now,29346,0.012,Minnesota,governor,
+1248,Steve Patterson,Grass Roots Party,22599,0.009,Minnesota,governor,
+1249,Hugh McTavish,Independence,18156,0.007,Minnesota,governor,
+1250,Gabrielle Prosser,Socialist Workers Party,7241,0.003,Minnesota,governor,
+1251,Jim Pillen,Republican,398334,0.592,Nebraska,governor,
+1252,Carol Blood,Democrat,242006,0.36,Nebraska,governor,
+1253,Scott Zimmerman,Libertarian,26455,0.039,Nebraska,governor,
+1254,Joe Lombardo,Republican,497377,0.488,Nevada,governor,
+1255,Steve Sisolak*,Democrat,481991,0.473,Nevada,governor,
+1256,Brandon Davis,Libertarian,14919,0.015,Nevada,governor,
+1257,None of these candidates,None Of The Above,14866,0.015,Nevada,governor,
+1258,Ed Bridges,Independent American,9918,0.01,Nevada,governor,
+1259,Chris Sununu*,Republican,352813,0.57,New Hampshire,governor,
+1260,Tom Sherman,Democrat,256766,0.415,New Hampshire,governor,
+1261,Kelly Halldorson,Libertarian,5071,0.008,New Hampshire,governor,
+1262,Karlyn Borysenko,Libertarian,2772,0.004,New Hampshire,governor,
+1263,Michelle Lujan Grisham*,Democrat,370168,0.52,New Mexico,governor,
+1264,Mark Ronchetti,Republican,324701,0.456,New Mexico,governor,
+1265,Karen Bedonie,Libertarian,17387,0.024,New Mexico,governor,
+1266,Kathy Hochul*,Democrat,3022872,0.528,New York,governor,
+1267,Lee Zeldin,Republican,2696377,0.471,New York,governor,
+1268,Mike DeWine*,Republican,2528018,0.626,Ohio,governor,
+1269,Nan Whaley,Democrat,1497866,0.371,Ohio,governor,
+1270,Kevin Stitt*,Republican,639484,0.554,Oklahoma,governor,
+1271,Joy Hofmeister,Democrat,481904,0.418,Oklahoma,governor,
+1272,Natalie Bruno,Libertarian,16243,0.014,Oklahoma,governor,
+1273,Ervin Yen,Independent,15653,0.014,Oklahoma,governor,
+1274,Tina Kotek,Democrat,917024,0.47,Oregon,governor,
+1275,Christine Drazan,Republican,850308,0.436,Oregon,governor,
+1276,Betsy Johnson,No Party Affiliation,168425,0.086,Oregon,governor,
+1277,Donice Smith,Constitution,8052,0.004,Oregon,governor,
+1278,Leon Noble,Libertarian,6867,0.004,Oregon,governor,
+1279,Josh Shapiro,Democrat,3030157,0.565,Pennsylvania,governor,
+1280,Doug Mastriano,Republican,2238186,0.417,Pennsylvania,governor,
+1281,Matt Hackenburg,Libertarian,51599,0.01,Pennsylvania,governor,
+1282,Christina DiGuilio,Green,24422,0.005,Pennsylvania,governor,
+1283,Joe Soloski,KEY,20502,0.004,Pennsylvania,governor,
+1284,Daniel McKee*,Democrat,207166,0.579,Rhode Island,governor,
+1285,Ashley Kalus,Republican,139001,0.389,Rhode Island,governor,
+1286,Zachary Hurwitz,Independent,4512,0.013,Rhode Island,governor,
+1287,Paul Rianna,Independent,3123,0.009,Rhode Island,governor,
+1288,Elijah Gizzarelli,Libertarian,2811,0.008,Rhode Island,governor,
+1289,Henry McMaster*,Republican,988501,0.58,South Carolina,governor,
+1290,Joe Cunningham,Democrat,692691,0.407,South Carolina,governor,
+1291,Bruce Reeves,Libertarian,20826,0.012,South Carolina,governor,
+1292,Kristi Noem*,Republican,217035,0.62,South Dakota,governor,
+1293,Jamie Smith,Democrat,123148,0.352,South Dakota,governor,
+1294,Tracey Quint,Libertarian,9983,0.029,South Dakota,governor,
+1295,Bill Lee*,Republican,1128097,0.649,Tennessee,governor,
+1296,Jason Martin,Democrat,572153,0.329,Tennessee,governor,
+1297,John Gentry,Independent,15344,0.009,Tennessee,governor,
+1298,Constance Every,Independent,10266,0.006,Tennessee,governor,
+1299,Deborah Rouse,Independent,3766,0.002,Tennessee,governor,
+1300,Rick Tyler,Independent,2378,0.001,Tennessee,governor,
+1301,Charles Van Morgan,Independent,1859,0.001,Tennessee,governor,
+1302,Basil Marceaux,Independent,1564,<0.1%,Tennessee,governor,
+1303,Alfred O'Neil,Independent,1213,<0.1%,Tennessee,governor,
+1304,Michael Scantland,Independent,814,<0.1%,Tennessee,governor,
+1305,Greg Abbott*,Republican,4437099,0.548,Texas,governor,
+1306,Beto O'Rourke,Democrat,3553656,0.439,Texas,governor,
+1307,Mark Tippetts,Libertarian,81932,0.01,Texas,governor,
+1308,Delilah Barrios,Green,28584,0.004,Texas,governor,
+1309,Phil Scott*,Republican,202147,0.71,Vermont,governor,
+1310,Brenda Siegel,Democrat,68248,0.24,Vermont,governor,
+1311,Kevin Hoyt,Independent,6022,0.021,Vermont,governor,
+1312,Peter Duval,Independent,4723,0.017,Vermont,governor,
+1313,Bernard Peters,Independent,2315,0.008,Vermont,governor,
+1314,Tony Evers*,Democrat,1358774,0.511,Wisconsin,governor,
+1315,Tim Michels,Republican,1268535,0.478,Wisconsin,governor,
+1316,Joan Beglinger,Independent,27198,0.01,Wisconsin,governor,
+1317,Mark Gordon*,Republican,143696,0.741,Wyoming,governor,
+1318,Theresa Livingston,Democrat,30686,0.158,Wyoming,governor,
+1319,Jared Baldes,Libertarian,8157,0.042,Wyoming,governor,
+1320,Markwayne Mullin,Republican,710643,0.618,Oklahoma,senate,Special Race
+1321,Kendra Horn,Democrat,405389,0.352,Oklahoma,senate,Special Race
+1322,Robert Murphy,Libertarian,17386,0.015,Oklahoma,senate,Special Race
+1323,Ray Woods,Independent,17063,0.015,Oklahoma,senate,Special Race
